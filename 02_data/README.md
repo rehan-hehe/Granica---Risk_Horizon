@@ -4,7 +4,7 @@
 |---|---|---|
 | `public/era5_weather/` | Hourly weather for 150 × 25 km cells at every crash hour and control hour (580,850 rows) | Inferred |
 | `public/metar_airports/` | Guwahati airport reports (50,618) | Observed |
-| `public/nasa_night_lights/` | 2024 night-light radiance per ~460 m pixel (1.45 M) | Observed |
+| `public/nasa_night_lights/` | Night-light radiance per ~460 m pixel (1.45 M) | Observed |
 | `public/openstreetmap/` | Pedestrian places, road points (crossings, signals, speed breakers), Assam boundary | Observed |
 | `public/tomtom_live/` | Every live poll so far: corridor road speeds (`flow_tiles_all_polls.csv`, join `geom_hash` → `road_pieces.csv`) and 24 speed points | Observed, **still collecting** |
 | `irad_cleaned/` | Cleaned police crash records (personal fields removed), uploaded separately | Observed |
