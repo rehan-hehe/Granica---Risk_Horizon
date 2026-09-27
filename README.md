@@ -42,4 +42,4 @@ jupyter notebook 05_model/run_pipeline.ipynb   # runs every step; see 05_model/R
 Keys (TomTom, NASA Earthdata) are typed at run time and never stored.
 
 ## Privacy
-Raw police records are **not** in this repository. `02_data/irad_cleaned/` explains the cleaned release (personal fields removed). Everything else is public data or aggregated to road segments.
+Raw police records are **not** in this repository. `02_data/irad_cleaned/` holds the cleaned release: 44,114 crashes with all personal identifiers removed. Everything else is public data or aggregated to road segments.

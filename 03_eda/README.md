@@ -8,5 +8,5 @@
 | `02_region_selection/` | Region scorecard and corridor hotspots | Picked the Guwahati corridor for live traffic collection |
 | `03_public_data/` | OSM summary and map, weather by month, night-light map, airport coverage | OSM tags are thin (lanes on 1% of roads) → use geometry and network features |
 | `04_conditions/` | Matched odds ratios, severity by condition, police vs measured | Rain slightly *lowers* crash odds (0.955), so a condition never lowers a warning. Darkness raises the fatal share (26.7% vs 22.4%) |
-| `05_live_traffic/` | Live snapshot map and collection status | Collection running |
+| `05_live_traffic/` | 33 h of live TomTom traffic (92 polls, 47,071 readings): time series, hotspot heatmap, hour-of-day profile, collection log and gaps | Collection still running; shows the daily traffic rhythm and every outage |
 | `06_data_quality/` | `reporting_drift_by_region.csv`, `crashes_per_month.csv`, `police_vs_measured.csv`, `light_police_vs_computed.csv`, `field_reliability.csv`, `CE323_lab_validation_log.csv`, `metar_coverage.csv` | iRAD reporting grew 1.5× unevenly (0.8×–3.8×) → drift-corrected features. Jan and Jul 2024 missing → rates per real data month. Police fog agrees weakly → dropped |

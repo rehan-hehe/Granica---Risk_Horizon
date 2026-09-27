@@ -1,7 +1,16 @@
 item,value
-polls so far (segment points),1
-first poll UTC,2026-09-26 12:54:54+00:00
-last poll UTC,2026-09-26 12:54:54+00:00
-segment-point readings,24
-flow-tile road readings,1431
-tile polls,1
+first flow poll (IST),2026-09-26 18:24
+last flow poll in data (IST),2026-09-28 03:26
+hours covered,33.0
+flow polls in data,92
+flow-tile readings (road piece x poll),47071
+distinct road pieces seen,17750
+tiles per poll,19
+segment-point polls,23
+segment-point readings,552
+hotspot points,24
+flow polls logged in manifest,104
+flow polls with errors (recovered next poll),10
+last manifest entry (IST),2026-09-28T03:56:53
+gaps > 25 min between polls,5
+longest gap (minutes),291
