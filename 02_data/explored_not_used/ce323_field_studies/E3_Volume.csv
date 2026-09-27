@@ -1,0 +1,71 @@
+group,experiment,site,lane,interval_min,vehicle_class,count,pcu_factor,pcu,interval_pcu_reported,interval_pcu_recomputed,source_file,source_location,extraction_method
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,Multi Axle,0,4.5,0.0,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,Truck,1,3.5,3.5,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,LCV,7,2.2,15.400000000000002,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,Bus,1,3.5,3.5,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,Car,7,1.0,7.0,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,Auto,0,2.0,0.0,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),0-2,Two Wheeler,19,0.5,9.5,38.900000000000006,38.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,Multi Axle,0,4.5,0.0,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,Truck,1,3.5,3.5,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,LCV,4,2.2,8.8,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,Bus,1,3.5,3.5,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,Car,16,1.0,16.0,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,Auto,5,2.0,10.0,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),2-4,Two Wheeler,18,0.5,9.0,50.8,50.8,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,Multi Axle,0,4.5,0.0,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,Truck,2,3.5,7.0,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,LCV,2,2.2,4.4,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,Bus,1,3.5,3.5,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,Car,9,1.0,9.0,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,Auto,1,2.0,2.0,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),4-6,Two Wheeler,8,0.5,4.0,29.9,29.9,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,Multi Axle,0,4.5,0.0,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,Truck,3,3.5,10.5,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,LCV,4,2.2,8.8,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,Bus,1,3.5,3.5,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,Car,11,1.0,11.0,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,Auto,3,2.0,6.0,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),6-8,Two Wheeler,21,0.5,10.5,50.3,50.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,Multi Axle,0,4.5,0.0,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,Truck,0,3.5,0.0,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,LCV,4,2.2,8.8,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,Bus,1,3.5,3.5,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,Car,9,1.0,9.0,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,Auto,4,2.0,8.0,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Shoulder (Lane 1),8-10,Two Wheeler,14,0.5,7.0,36.3,36.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,Multi Axle,0,4.5,0.0,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,Truck,1,3.5,3.5,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,LCV,5,2.2,11.0,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,Bus,1,3.5,3.5,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,Car,23,1.0,23.0,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,Auto,0,2.0,0.0,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),0-2,Two Wheeler,1,0.5,0.5,41.5,41.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r4,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,Multi Axle,1,4.5,4.5,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,Truck,3,3.5,10.5,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,LCV,8,2.2,17.6,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,Bus,1,3.5,3.5,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,Car,16,1.0,16.0,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,Auto,0,2.0,0.0,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),2-4,Two Wheeler,3,0.5,1.5,53.6,53.6,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r5,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,Multi Axle,1,4.5,4.5,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,Truck,7,3.5,24.5,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,LCV,4,2.2,8.8,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,Bus,1,3.5,3.5,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,Car,11,1.0,11.0,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,Auto,0,2.0,0.0,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),4-6,Two Wheeler,0,0.5,0.0,52.3,52.3,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r6,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,Multi Axle,0,4.5,0.0,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,Truck,6,3.5,21.0,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,LCV,5,2.2,11.0,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,Bus,0,3.5,0.0,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,Car,20,1.0,20.0,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,Auto,0,2.0,0.0,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),6-8,Two Wheeler,3,0.5,1.5,53.5,53.5,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r7,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,Multi Axle,3,4.5,13.5,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,Truck,4,3.5,14.0,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,LCV,2,2.2,4.4,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,Bus,0,3.5,0.0,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,Car,15,1.0,15.0,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,Auto,0,2.0,0.0,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx
+Group 5,Exp3,"Mid-block (video), site not named in report",Median (Lane 2),8-10,Two Wheeler,5,0.5,2.5,49.4,49.4,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume r8,xlsx

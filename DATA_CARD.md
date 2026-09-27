@@ -9,7 +9,7 @@
 | Airport weather (METAR) | 50,618 reports (Guwahati VEGT) | Dec 2022 – May 2026 | 30 min | Iowa Environmental Mesonet | Observed | `02_data/public/metar_airports` |
 | NASA Black Marble night lights | 1,445,970 pixels (~460 m) | 2024 annual | one-off | NASA VNP46A4 | Observed | `02_data/public/nasa_night_lights` |
 | TomTom live traffic | 19 map tiles + 24 points per poll | from 26 Sep 2026, **still running** | tiles every 15 min, points hourly | TomTom Traffic API (collected by us) | Observed | `02_data/public/tomtom_live` |
-| CE323 field studies | 23 tables (19–644 rows) | course field work | manual counts | IIT Guwahati CE323 lab groups | Observed | `02_data/ce323_field_studies` |
+| CE323 field studies | 23 tables (19–644 rows) | course field work | manual counts | IIT Guwahati CE323 lab groups | Observed | `02_data/explored_not_used/ce323_field_studies` (explored, not used in the model) |
 | Sun position, case-crossover controls | 193,904 place-hours | = crash window | per crash | computed (pvlib) | **Computed** | built by code |
 
 **Synthetic data:** none.

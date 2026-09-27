@@ -1,0 +1,469 @@
+group,experiment,site,bay_row,vehicle_type,snapshot_time,occupied,vehicle_token,row_duration_reported_min,row_duration_recomputed_min,source_file,source_location,extraction_method
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,10:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,10:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,11:10,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,11:20,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,11:50,True,G12P001,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),1,Two Wheeler,12:00,True,G12P001,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,10:40,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,10:50,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,11:00,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,11:10,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,11:20,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,11:30,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,11:40,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,11:50,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),2,Two Wheeler,12:00,True,G12P002,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,10:40,True,G12P003,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,10:50,True,G12P003,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,11:00,True,G12P003,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,11:10,True,G12P003,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,11:20,True,G12P003,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,11:30,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,11:40,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,11:50,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),3,Two Wheeler,12:00,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,10:40,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,10:50,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,11:00,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,11:10,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,11:20,True,G12P004,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,11:30,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,11:40,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,11:50,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),4,Two Wheeler,12:00,False,,10,10,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,10:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,10:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,11:10,True,G12P005,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,11:20,True,G12P005,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,11:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),5,Two Wheeler,12:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,10:40,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,10:50,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,11:00,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,11:10,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,11:20,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,11:30,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,11:40,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,11:50,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),6,Two Wheeler,12:00,True,G12P006,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,10:40,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,10:50,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,11:00,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,11:10,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,11:20,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,11:30,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,11:40,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,11:50,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),7,Two Wheeler,12:00,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,10:40,True,G12P008,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,10:50,True,G12P008,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,11:00,True,G12P008,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,11:10,True,G12P009,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,11:20,True,G12P009,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,11:30,True,G12P009,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,11:40,True,G12P009,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,11:50,True,G12P010,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),8,Two Wheeler,12:00,True,G12P010,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,10:40,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,10:50,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,11:00,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,11:10,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,11:20,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,11:30,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,11:40,True,G12P011,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,11:50,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),9,Two Wheeler,12:00,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,10:40,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,10:50,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,11:00,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,11:10,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,11:20,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,11:30,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,11:40,True,G12P012,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,11:50,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),10,Two Wheeler,12:00,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,10:40,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,10:50,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,11:00,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,11:10,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,11:20,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,11:30,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,11:40,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,11:50,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),11,Two Wheeler,12:00,True,G12P013,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,10:40,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,10:50,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,11:00,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,11:10,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,11:20,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,11:30,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,11:40,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,11:50,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),12,Two Wheeler,12:00,True,G12P014,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,10:40,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,10:50,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,11:00,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,11:10,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,11:20,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,11:30,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,11:40,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,11:50,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),13,Two Wheeler,12:00,True,G12P015,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,10:40,True,G12P003,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,10:50,True,G12P003,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,11:00,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,11:10,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,11:20,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,11:30,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,11:40,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,11:50,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),14,Two Wheeler,12:00,True,G12P016,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,10:40,True,G12P012,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,10:50,True,G12P007,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,11:00,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,11:10,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,11:20,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,11:30,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,11:40,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,11:50,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),15,Two Wheeler,12:00,True,G12P017,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,10:40,True,G12P018,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,10:50,True,G12P018,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,11:00,True,G12P018,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,11:10,True,G12P018,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,11:20,True,G12P018,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,11:30,True,G12P018,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,11:40,False,,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,11:50,False,,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),16,Two Wheeler,12:00,False,,60,60,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,10:40,True,G12P016,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,10:50,True,G12P016,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,11:10,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,11:20,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,11:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),17,Two Wheeler,12:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,10:40,True,G12P019,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,10:50,True,G12P019,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,11:00,True,G12P019,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,11:10,True,G12P019,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,11:20,True,G12P019,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,11:30,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,11:40,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,11:50,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),18,Two Wheeler,12:00,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,10:40,True,G12P002,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,10:50,True,G12P002,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,11:10,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,11:20,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,11:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),19,Two Wheeler,12:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,10:40,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,10:50,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,11:00,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,11:10,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,11:20,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,11:30,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,11:40,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,11:50,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),20,Two Wheeler,12:00,True,G12P020,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,10:40,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,10:50,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,11:00,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,11:10,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,11:20,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,11:30,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,11:40,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,11:50,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),21,Two Wheeler,12:00,True,G12P021,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,10:40,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,10:50,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,11:00,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,11:10,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,11:20,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,11:30,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,11:40,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,11:50,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),22,Two Wheeler,12:00,True,G12P022,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,10:40,True,G12P023,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,10:50,True,G12P023,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,11:10,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,11:20,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,11:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),23,Two Wheeler,12:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,10:40,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,10:50,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,11:00,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,11:10,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,11:20,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,11:30,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,11:40,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,11:50,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),24,Two Wheeler,12:00,True,G12P024,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,10:40,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,10:50,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,11:00,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,11:10,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,11:20,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,11:30,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,11:40,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,11:50,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),25,Two Wheeler,12:00,True,G12P025,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,10:40,True,G12P001,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,10:50,True,G12P001,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,11:00,True,G12P001,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,11:10,True,G12P001,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,11:20,True,G12P001,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,11:30,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,11:40,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,11:50,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),26,Two Wheeler,12:00,False,,50,50,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,10:40,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,10:50,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,11:00,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,11:10,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,11:20,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,11:30,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,11:40,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,11:50,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),27,Two Wheeler,12:00,True,G12P026,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,10:40,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,10:50,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,11:00,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,11:10,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,11:20,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,11:30,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,11:40,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,11:50,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),28,Two Wheeler,12:00,True,G12P027,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,10:40,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,10:50,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,11:00,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,11:10,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,11:20,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,11:30,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,11:40,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,11:50,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),29,Two Wheeler,12:00,True,G12P028,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,10:40,True,G12P029,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,10:50,True,G12P029,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,11:00,True,G12P029,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,11:10,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,11:20,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,11:30,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,11:40,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,11:50,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),30,Two Wheeler,12:00,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,10:40,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,10:50,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,11:00,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,11:10,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,11:20,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,11:30,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,11:40,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,11:50,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),31,Two Wheeler,12:00,True,G12P030,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,10:40,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,10:50,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,11:00,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,11:10,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,11:20,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,11:30,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,11:40,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,11:50,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),32,Two Wheeler,12:00,True,G12P031,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,10:40,False,,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,10:50,False,,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,11:00,False,,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,11:10,False,,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,11:20,False,,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,11:30,True,G12P032,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,11:40,True,G12P032,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,11:50,True,G12P032,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),33,Two Wheeler,12:00,True,G12P032,40,40,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,10:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,10:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,11:10,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,11:20,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,11:50,True,G12P012,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),34,Two Wheeler,12:00,True,G12P012,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,10:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,10:50,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,11:00,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,11:10,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,11:20,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,11:30,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,11:40,False,,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,11:50,True,G12P033,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),35,Two Wheeler,12:00,True,G12P033,20,20,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,10:40,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,10:50,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,11:00,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,11:10,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,11:20,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,11:30,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,11:40,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,11:50,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),36,Two Wheeler,12:00,True,G12P021,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,10:40,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,10:50,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,11:00,True,G12P034,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,11:10,True,G12P034,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,11:20,True,G12P034,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,11:30,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,11:40,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,11:50,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),37,Two Wheeler,12:00,False,,30,30,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,10:40,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,10:50,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,11:00,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,11:10,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,11:20,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,11:30,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,11:40,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,11:50,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),38,Two Wheeler,12:00,True,G12P035,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,10:40,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,10:50,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,11:00,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,11:10,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,11:20,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,11:30,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,11:40,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,11:50,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),39,Car,12:00,True,G12P036,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,10:40,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,10:50,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,11:00,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,11:10,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,11:20,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,11:30,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,11:40,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,11:50,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),40,Car,12:00,True,G12P037,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,10:40,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,10:50,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,11:00,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,11:10,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,11:20,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,11:30,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,11:40,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,11:50,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),41,Car,12:00,True,G12P038,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,10:40,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,10:50,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,11:00,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,11:10,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,11:20,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,11:30,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,11:40,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,11:50,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),42,Car,12:00,True,G12P039,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,10:40,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,10:50,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,11:00,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,11:10,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,11:20,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,11:30,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,11:40,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,11:50,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),43,Car,12:00,True,G12P040,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,10:40,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,10:50,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,11:00,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,11:10,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,11:20,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,11:30,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,11:40,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,11:50,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),44,Car,12:00,True,G12P041,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,10:40,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,10:50,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,11:00,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,11:10,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,11:20,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,11:30,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,11:40,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,11:50,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),45,Car,12:00,True,G12P042,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,10:40,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,10:50,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,11:00,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,11:10,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,11:20,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,11:30,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,11:40,True,G12P043,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,11:50,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),46,Car,12:00,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,10:40,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,10:50,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,11:00,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,11:10,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,11:20,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,11:30,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,11:40,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,11:50,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),47,Car,12:00,True,G12P044,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,10:40,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,10:50,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,11:00,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,11:10,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,11:20,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,11:30,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,11:40,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,11:50,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),48,Car,12:00,True,G12P045,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,10:40,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,10:50,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,11:00,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,11:10,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,11:20,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,11:30,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,11:40,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,11:50,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),49,Car,12:00,True,G12P046,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,10:40,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,10:50,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,11:00,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,11:10,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,11:20,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,11:30,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,11:40,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,11:50,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),50,Car,12:00,True,G12P047,90,90,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,10:40,False,,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,10:50,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,11:00,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,11:10,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,11:20,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,11:30,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,11:40,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,11:50,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),51,Car,12:00,True,G12P048,80,80,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,10:40,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,10:50,False,,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,11:00,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,11:10,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,11:20,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,11:30,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,11:40,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,11:50,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text
+Group 12,Exp8,Parking area (not named in report),52,Car,12:00,True,G12P049,70,70,CE323_EXP8.pdf,p.3-4 observation table,pdf text

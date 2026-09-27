@@ -1,0 +1,645 @@
+group,experiment,site,date,vehicle_class,flow_state,speed_kmh,source_file,source_location,extraction_method
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!A3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!A4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),19.0,Expt 5.xlsx,Sheet1!A5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),44.0,Expt 5.xlsx,Sheet1!A6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),27.0,Expt 5.xlsx,Sheet1!A7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),37.0,Expt 5.xlsx,Sheet1!A8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),24.0,Expt 5.xlsx,Sheet1!A11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!A13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),24.0,Expt 5.xlsx,Sheet1!A14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),46.0,Expt 5.xlsx,Sheet1!A15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!A17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!A18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),36.0,Expt 5.xlsx,Sheet1!A19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!A20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!A21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!A23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!A25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!A27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),27.0,Expt 5.xlsx,Sheet1!A28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!A29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),22.0,Expt 5.xlsx,Sheet1!A30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),20.0,Expt 5.xlsx,Sheet1!A31,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),22.0,Expt 5.xlsx,Sheet1!A32,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A33,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),25.0,Expt 5.xlsx,Sheet1!A34,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),37.0,Expt 5.xlsx,Sheet1!A35,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!A36,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A37,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!A38,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!A39,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!A40,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!A41,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!A42,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,60.0,Expt 5.xlsx,Sheet1!B3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,52.0,Expt 5.xlsx,Sheet1!B4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,40.0,Expt 5.xlsx,Sheet1!B5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,53.0,Expt 5.xlsx,Sheet1!B6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,47.0,Expt 5.xlsx,Sheet1!B7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,61.0,Expt 5.xlsx,Sheet1!B8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,36.0,Expt 5.xlsx,Sheet1!B9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,47.0,Expt 5.xlsx,Sheet1!B10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,33.0,Expt 5.xlsx,Sheet1!B11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,33.0,Expt 5.xlsx,Sheet1!B12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,40.0,Expt 5.xlsx,Sheet1!B13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,39.0,Expt 5.xlsx,Sheet1!B14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,19.0,Expt 5.xlsx,Sheet1!B15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,40.0,Expt 5.xlsx,Sheet1!B16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,25.0,Expt 5.xlsx,Sheet1!B17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,28.0,Expt 5.xlsx,Sheet1!B18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,38.0,Expt 5.xlsx,Sheet1!B19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Truck,Free flow,39.0,Expt 5.xlsx,Sheet1!B20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),60.0,Expt 5.xlsx,Sheet1!E4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),70.0,Expt 5.xlsx,Sheet1!E5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),54.0,Expt 5.xlsx,Sheet1!E7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!E9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!E10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),51.0,Expt 5.xlsx,Sheet1!E11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),36.0,Expt 5.xlsx,Sheet1!E12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),65.0,Expt 5.xlsx,Sheet1!E13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!E14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),52.0,Expt 5.xlsx,Sheet1!E16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!E17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!E18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!E19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),47.0,Expt 5.xlsx,Sheet1!E20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),37.0,Expt 5.xlsx,Sheet1!E21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!E22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!E24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!E25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!E26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!E27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!E28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E31,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!E32,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!E33,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!E34,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!E35,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E36,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!E37,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),46.0,Expt 5.xlsx,Sheet1!E38,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!E39,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!E40,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!E41,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!E42,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),67.0,Expt 5.xlsx,Sheet1!E43,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),60.0,Expt 5.xlsx,Sheet1!E44,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),60.0,Expt 5.xlsx,Sheet1!E45,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!E46,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!E47,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,60.0,Expt 5.xlsx,Sheet1!F3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,50.0,Expt 5.xlsx,Sheet1!F4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,50.0,Expt 5.xlsx,Sheet1!F5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,55.0,Expt 5.xlsx,Sheet1!F6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,74.0,Expt 5.xlsx,Sheet1!F7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,45.0,Expt 5.xlsx,Sheet1!F8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,45.0,Expt 5.xlsx,Sheet1!F9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,75.0,Expt 5.xlsx,Sheet1!F10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,55.0,Expt 5.xlsx,Sheet1!F11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,70.0,Expt 5.xlsx,Sheet1!F12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Car,Free flow,64.0,Expt 5.xlsx,Sheet1!F13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!I3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!I4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!I5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!I6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),3.0,Expt 5.xlsx,Sheet1!I7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!I8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!I9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!I10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!I11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!I12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),27.0,Expt 5.xlsx,Sheet1!I13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!I14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!I15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),17.0,Expt 5.xlsx,Sheet1!I16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!I17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!I18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!I19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!I20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!I21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!I22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),19.0,Expt 5.xlsx,Sheet1!I23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!I24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),18.0,Expt 5.xlsx,Sheet1!I25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),27.0,Expt 5.xlsx,Sheet1!I26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!I27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!I28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!I29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!I30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),27.0,Expt 5.xlsx,Sheet1!I31,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!I32,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),18.0,Expt 5.xlsx,Sheet1!I33,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),17.0,Expt 5.xlsx,Sheet1!I34,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),17.0,Expt 5.xlsx,Sheet1!I35,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!I36,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),21.0,Expt 5.xlsx,Sheet1!I37,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!I38,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,40.0,Expt 5.xlsx,Sheet1!J3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,20.0,Expt 5.xlsx,Sheet1!J4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,35.0,Expt 5.xlsx,Sheet1!J5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,35.0,Expt 5.xlsx,Sheet1!J6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,25.0,Expt 5.xlsx,Sheet1!J7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,30.0,Expt 5.xlsx,Sheet1!J8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,39.0,Expt 5.xlsx,Sheet1!J9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,35.0,Expt 5.xlsx,Sheet1!J10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,30.0,Expt 5.xlsx,Sheet1!J11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,32.0,Expt 5.xlsx,Sheet1!J12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,28.0,Expt 5.xlsx,Sheet1!J13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,33.0,Expt 5.xlsx,Sheet1!J14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,37.0,Expt 5.xlsx,Sheet1!J15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,35.0,Expt 5.xlsx,Sheet1!J16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,24.0,Expt 5.xlsx,Sheet1!J17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,43.0,Expt 5.xlsx,Sheet1!J18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,39.0,Expt 5.xlsx,Sheet1!J19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Auto,Free flow,33.0,Expt 5.xlsx,Sheet1!J20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),25.0,Expt 5.xlsx,Sheet1!M3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),25.0,Expt 5.xlsx,Sheet1!M4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),58.0,Expt 5.xlsx,Sheet1!M5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!M6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),41.0,Expt 5.xlsx,Sheet1!M7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!M8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),58.0,Expt 5.xlsx,Sheet1!M9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!M10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),52.0,Expt 5.xlsx,Sheet1!M11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),49.0,Expt 5.xlsx,Sheet1!M12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),44.0,Expt 5.xlsx,Sheet1!M13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),63.0,Expt 5.xlsx,Sheet1!M14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!M15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!M16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),46.0,Expt 5.xlsx,Sheet1!M17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),47.0,Expt 5.xlsx,Sheet1!M18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),50.0,Expt 5.xlsx,Sheet1!M19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!M20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),18.0,Expt 5.xlsx,Sheet1!M21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),26.0,Expt 5.xlsx,Sheet1!M22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!M23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),25.0,Expt 5.xlsx,Sheet1!M24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!M25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!M26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),26.0,Expt 5.xlsx,Sheet1!M27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!M28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!M29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),24.0,Expt 5.xlsx,Sheet1!M30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),20.0,Expt 5.xlsx,Sheet1!M31,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!M32,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!M33,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),41.0,Expt 5.xlsx,Sheet1!M34,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!M35,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!M36,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),44.0,Expt 5.xlsx,Sheet1!M37,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),37.0,Expt 5.xlsx,Sheet1!M38,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!M39,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!M40,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!M41,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!M42,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),46.0,Expt 5.xlsx,Sheet1!M43,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),21.0,Expt 5.xlsx,Sheet1!M44,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!M45,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!M46,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!M47,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,57.0,Expt 5.xlsx,Sheet1!N3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,48.0,Expt 5.xlsx,Sheet1!N4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,48.0,Expt 5.xlsx,Sheet1!N5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,51.0,Expt 5.xlsx,Sheet1!N6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,52.0,Expt 5.xlsx,Sheet1!N7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,50.0,Expt 5.xlsx,Sheet1!N8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,33.0,Expt 5.xlsx,Sheet1!N9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,33.0,Expt 5.xlsx,Sheet1!N10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,43.0,Expt 5.xlsx,Sheet1!N11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,33.0,Expt 5.xlsx,Sheet1!N12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,34.0,Expt 5.xlsx,Sheet1!N13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,LCV,Free flow,35.0,Expt 5.xlsx,Sheet1!N14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),8.0,Expt 5.xlsx,Sheet1!Q3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),41.0,Expt 5.xlsx,Sheet1!Q4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!Q5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!Q6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),46.0,Expt 5.xlsx,Sheet1!Q7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!Q8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),37.0,Expt 5.xlsx,Sheet1!Q9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),26.0,Expt 5.xlsx,Sheet1!Q10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),24.0,Expt 5.xlsx,Sheet1!Q11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),17.0,Expt 5.xlsx,Sheet1!Q12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),16.0,Expt 5.xlsx,Sheet1!Q13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),10.0,Expt 5.xlsx,Sheet1!Q14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),45.0,Expt 5.xlsx,Sheet1!Q15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!Q16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),17.0,Expt 5.xlsx,Sheet1!Q17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!Q18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!Q19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!Q20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),41.0,Expt 5.xlsx,Sheet1!Q21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!Q22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),37.0,Expt 5.xlsx,Sheet1!Q23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!Q24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!Q25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!Q26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!Q27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!Q28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!Q29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!Q30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!Q31,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),44.0,Expt 5.xlsx,Sheet1!Q32,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),36.0,Expt 5.xlsx,Sheet1!Q33,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!Q34,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!Q35,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),27.0,Expt 5.xlsx,Sheet1!Q36,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),44.0,Expt 5.xlsx,Sheet1!Q37,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),49.0,Expt 5.xlsx,Sheet1!Q38,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!Q39,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!Q40,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!Q41,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),26.0,Expt 5.xlsx,Sheet1!Q42,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!Q43,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!Q44,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!Q45,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,51.0,Expt 5.xlsx,Sheet1!R3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,36.0,Expt 5.xlsx,Sheet1!R4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,37.0,Expt 5.xlsx,Sheet1!R5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,39.0,Expt 5.xlsx,Sheet1!R6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,47.0,Expt 5.xlsx,Sheet1!R7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,34.0,Expt 5.xlsx,Sheet1!R8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,42.0,Expt 5.xlsx,Sheet1!R9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Bus,Free flow,38.0,Expt 5.xlsx,Sheet1!R10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),65.0,Expt 5.xlsx,Sheet1!U3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),36.0,Expt 5.xlsx,Sheet1!U4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),61.0,Expt 5.xlsx,Sheet1!U5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!U6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!U7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!U8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!U9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),33.0,Expt 5.xlsx,Sheet1!U10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!U11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),36.0,Expt 5.xlsx,Sheet1!U12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),55.0,Expt 5.xlsx,Sheet1!U13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),54.0,Expt 5.xlsx,Sheet1!U14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!U15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),41.0,Expt 5.xlsx,Sheet1!U16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),53.0,Expt 5.xlsx,Sheet1!U17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),43.0,Expt 5.xlsx,Sheet1!U18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!U19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!U20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),49.0,Expt 5.xlsx,Sheet1!U21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!U22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),44.0,Expt 5.xlsx,Sheet1!U23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),34.0,Expt 5.xlsx,Sheet1!U24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),52.0,Expt 5.xlsx,Sheet1!U25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!U26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),39.0,Expt 5.xlsx,Sheet1!U27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),42.0,Expt 5.xlsx,Sheet1!U28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!U29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!U30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),26.0,Expt 5.xlsx,Sheet1!U31,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),36.0,Expt 5.xlsx,Sheet1!U32,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),35.0,Expt 5.xlsx,Sheet1!U33,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!U34,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),30.0,Expt 5.xlsx,Sheet1!U35,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!U36,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),24.0,Expt 5.xlsx,Sheet1!U37,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!U38,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),26.0,Expt 5.xlsx,Sheet1!U39,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),23.0,Expt 5.xlsx,Sheet1!U40,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),29.0,Expt 5.xlsx,Sheet1!U41,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),40.0,Expt 5.xlsx,Sheet1!U42,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),31.0,Expt 5.xlsx,Sheet1!U43,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),32.0,Expt 5.xlsx,Sheet1!U44,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),28.0,Expt 5.xlsx,Sheet1!U45,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Non-free (car-following),38.0,Expt 5.xlsx,Sheet1!U46,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,67.0,Expt 5.xlsx,Sheet1!V3,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,54.0,Expt 5.xlsx,Sheet1!V4,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,51.0,Expt 5.xlsx,Sheet1!V5,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,60.0,Expt 5.xlsx,Sheet1!V6,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,59.0,Expt 5.xlsx,Sheet1!V7,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,48.0,Expt 5.xlsx,Sheet1!V8,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,48.0,Expt 5.xlsx,Sheet1!V9,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,44.0,Expt 5.xlsx,Sheet1!V10,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,34.0,Expt 5.xlsx,Sheet1!V11,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,57.0,Expt 5.xlsx,Sheet1!V12,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,36.0,Expt 5.xlsx,Sheet1!V13,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,69.0,Expt 5.xlsx,Sheet1!V14,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,47.0,Expt 5.xlsx,Sheet1!V15,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,29.0,Expt 5.xlsx,Sheet1!V16,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,32.0,Expt 5.xlsx,Sheet1!V17,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,44.0,Expt 5.xlsx,Sheet1!V18,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,58.0,Expt 5.xlsx,Sheet1!V19,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,55.0,Expt 5.xlsx,Sheet1!V20,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,66.0,Expt 5.xlsx,Sheet1!V21,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,77.0,Expt 5.xlsx,Sheet1!V22,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,50.0,Expt 5.xlsx,Sheet1!V23,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,53.0,Expt 5.xlsx,Sheet1!V24,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,48.0,Expt 5.xlsx,Sheet1!V25,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,43.0,Expt 5.xlsx,Sheet1!V26,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,53.0,Expt 5.xlsx,Sheet1!V27,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,56.0,Expt 5.xlsx,Sheet1!V28,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,45.0,Expt 5.xlsx,Sheet1!V29,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,35.0,Expt 5.xlsx,Sheet1!V30,xlsx
+Group 5,Exp5,"Amingaon, Guwahati (4-lane divided)",2026-02-21,Two Wheeler,Free flow,60.0,Expt 5.xlsx,Sheet1!V31,xlsx
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,24.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,45.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,33.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,34.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,41.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,30.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,47.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 18",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 19",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Free flow,42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Free, entry 20",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),26.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),54.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),27.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),24.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),26.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 18",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 19",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),28.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 20",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),31.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 21",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),44.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 22",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 23",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),44.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 24",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 25",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),28.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 26",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 27",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 28",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Truck,Forced (car-following),31.0,CE323_EXP5.pdf,"Observation table p.4-5, col Truck/Forced, entry 29",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,28.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,27.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,30.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,57.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,57.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,51.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,28.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Free flow,55.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Free, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),26.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),23.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),20.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),21.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),41.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),23.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),27.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),33.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),41.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),44.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),45.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),28.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 18",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 19",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 20",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),20.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 21",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 22",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 23",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 24",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 25",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),31.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 26",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),34.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 27",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 28",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 29",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),45.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 30",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 31",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),41.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 32",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 33",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 34",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),34.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 35",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 36",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 37",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 38",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),44.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 39",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 40",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Bus,Forced (car-following),56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Bus/Forced, entry 41",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,38.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,44.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,48.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,62.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,41.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,49.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,46.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,46.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,30.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,59.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,49.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,54.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Free, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),53.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),41.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),47.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),38.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),47.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),33.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),42.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),47.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),48.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),47.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 18",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),57.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 19",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),28.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 20",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),44.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 21",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 22",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),38.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 23",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),45.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 24",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),41.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 25",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 26",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),33.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 27",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 28",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 29",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),38.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 30",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 31",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 32",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),33.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 33",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 34",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),20.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 35",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),24.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 36",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),42.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 37",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 38",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),31.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 39",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),33.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 40",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,LCV,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col LCV/Forced, entry 41",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,54.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,62.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,53.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,55.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,65.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,99.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,70.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Free flow,50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Free, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),23.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),52.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),58.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),58.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),34.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),53.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),31.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),42.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),38.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),38.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 18",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 19",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 20",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),47.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 21",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),27.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 22",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 23",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 24",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 25",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 26",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 27",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),34.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 28",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 29",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),51.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 30",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),61.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 31",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),65.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 32",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),53.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 33",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 34",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 35",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),24.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 36",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),21.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 37",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 38",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 39",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),34.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 40",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 41",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 42",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 43",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Car,Forced (car-following),54.0,CE323_EXP5.pdf,"Observation table p.4-5, col Car/Forced, entry 44",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,30.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,19.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,41.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,31.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,33.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,33.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,19.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,41.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,30.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Free flow,39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Free, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),25.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),27.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),22.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),38.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),45.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),28.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),23.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),37.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),39.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Auto,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Auto/Forced, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,51.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,36.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,44.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,73.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,6.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,9.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,63.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,65.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,47.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,32.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,53.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Free flow,69.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Free, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 1",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 2",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 3",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),56.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 4",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 5",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),74.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 6",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),61.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 7",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),65.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 8",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),59.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 9",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 10",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 11",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),46.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 12",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),29.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 13",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),45.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 14",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),48.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 15",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),52.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 16",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),30.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 17",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),40.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 18",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),43.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 19",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 20",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),52.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 21",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),31.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 22",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),51.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 23",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),49.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 24",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 25",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),35.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 26",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),24.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 27",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),50.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 28",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image
+Group 12,Exp5,Mid-block section (not named),,Two Wheeler,Forced (car-following),52.0,CE323_EXP5.pdf,"Observation table p.4-5, col Two Wheeler/Forced, entry 29",pdf table (pdfplumber) p.4; word x-positions p.5; verified against page image

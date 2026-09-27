@@ -8,26 +8,28 @@
 | Previous model v1 | 16.5% | 49.3% | 67.4% | 185 |
 | **Final (blend + Empirical Bayes)** | **17.2%** | **49.7%** | **68.2%** | **184** |
 
-**What the numbers mean:**
-- **Against the blackspot list:** on the same 4,060 km, Risk Horizon covers a quarter more of future serious crashes (+10.6 pts, 95% CI 8.1–12.2).
-- **Against v1:** the gain from feature engineering is small but statistically clear in overall ranking (+0.006, CI 0.003–0.009). Our inputs were already close to their limit; the next gain needs traffic volumes.
-- **Bands:** band 3 (1% of road) holds 17.7% of future serious crashes, at **83×** the rate of band 0.
-- **Darkness** raises fatal odds ×1.43 (1.27–1.60). Rain and fog do not raise crash odds.
+**What it means:**
+- **Against the blackspot list:** on the same 4,060 km, the final model covers a quarter more future serious crashes (+10.6 pts, 95% CI 8.1–12.2).
+- **Against v1:** the gain from feature engineering is small but statistically clear on overall ranking (+0.006, CI 0.003–0.009).
+- **Bands:** band 3 (1% of road) holds 17.7% of future serious crashes, at 83× the rate of band 0.
+- **Conditions:**
+  - rain slightly lowers crash odds (0.955), so the signal never lowers a warning for rain
+  - darkness raises the odds a crash is fatal ×1.39 (1.19–1.61), giving a darkness multiplier of ~1.18
+  - after dark, the road flagged band 2+ grows from 5.0% to 5.9%
 
 | Folder | Contents |
 |---|---|
-| `01_feature_study/` | `feature_catalog.csv` (every candidate: source, missing %, correlation, mutual information, validation importance, kept or dropped and why), `experiment_log.csv` (every experiment), `group_ablation.csv` (information carried by each source), PCA variance and loadings, tuning, blend weight, correlation matrix |
-| `02_static_risk_final/` | `A_test_results.csv`, `A_bootstrap_ci.csv`, calibration by decile, rate ratios, tree importance, band validation, settings |
-| `03_conditions/` | Crash-likelihood odds ratios (rain, fog, rain × main road, per period), severity odds ratios, darkness multipliers |
-| `04_signal_bands/` | Band definitions with vehicle actions, validation, alert load by condition |
-| `05_v1_baseline/` | v1 results for comparison |
-| `figures/` | Slide-ready figures (numbered in story order) and model figures |
-| `MODEL_CARD.md`, `Risk_Horizon_Model_Results.xlsx` | Summary card and workbook |
+| `01_feature_study/` | `feature_catalog.csv` (every candidate: source, missing %, correlation, mutual information, validation importance, kept or dropped and why), `experiment_log.csv`, `group_ablation.csv`, PCA, tuning, blend weight, correlation matrix |
+| `02_static_risk_final/` | Test results, bootstrap CIs, calibration, regression rate ratios, tree importance, band validation, settings |
+| `03_conditions/` | B1 odds ratios (rain, fog, rain × main road, per period); B2 model comparison, odds ratios and darkness multipliers |
+| `04_signal_bands/` | Band definitions with vehicle actions, band validation, alert load, **segment signal table** (2 parts, 246,789 segments) |
+| `05_v1_baseline/` | v1 results, kept for comparison |
+| `figures/` | Slide figures in story order |
 
 **Found and fixed in our own code:**
 - **Leak 1:** float residue from fast grid sums leaked each segment's own crash count into a neighbour feature.
-- **Leak 2:** subtracting own crashes from a regional total made it a copy of the segment's count.
+- **Leak 2:** subtracting own crashes from a regional total made that total a copy of the segment's count.
 
-Both were caught by rebuilding the previous model and demanding an exact match. They were fixed before the final test.
+Both were caught by rebuilding the previous model and demanding an exact match, then fixed before the final test.
 
-**Open item:** the driver-facing "reasons" should use the v1 regression, because the v2 one showed a convergence warning.
+**Open item:** the driver-facing reasons come from the regression (A1), which showed a convergence warning with 25 terms. A smaller term set is the next fix.

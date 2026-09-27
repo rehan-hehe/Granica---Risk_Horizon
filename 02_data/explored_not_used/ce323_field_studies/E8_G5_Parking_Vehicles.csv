@@ -1,0 +1,116 @@
+group,experiment,site,vehicle_token,plate_recorded_as,vehicle_type_raw,vehicle_type,time_in,time_out,duration_reported_min,duration_recomputed_min,duration_check,source_file,source_location,extraction_method
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P001,(pseudonymised),Car,Car,10:20,11:01,41.0,41,OK,Expt 8.xlsx,Sheet1!B3:F3,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P002,(pseudonymised),Car,Car,10:20,10:39,14.0,19,MISMATCH,Expt 8.xlsx,Sheet1!B4:F4,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P003,(pseudonymised),Car,Car,10:20,11:42,82.0,82,OK,Expt 8.xlsx,Sheet1!B5:F5,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P004,(pseudonymised),Car,Car,10:20,11:42,82.0,82,OK,Expt 8.xlsx,Sheet1!B6:F6,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P005,(pseudonymised),Car,Car,10:20,10:30,10.0,10,OK,Expt 8.xlsx,Sheet1!B7:F7,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P006,(pseudonymised),Car,Car,10:20,10:43,23.0,23,OK,Expt 8.xlsx,Sheet1!B8:F8,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P007,(pseudonymised),Car,Car,10:20,10:34,14.0,14,OK,Expt 8.xlsx,Sheet1!B9:F9,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P008,(pseudonymised),Car,Car,10:20,10:24,4.0,4,OK,Expt 8.xlsx,Sheet1!B10:F10,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P009,(pseudonymised),Car,Car,10:20,10:34,14.0,14,OK,Expt 8.xlsx,Sheet1!B11:F11,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P010,(pseudonymised),Car,Car,10:20,10:26,6.0,6,OK,Expt 8.xlsx,Sheet1!B12:F12,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P011,(pseudonymised),Car,Car,10:20,10:27,7.0,7,OK,Expt 8.xlsx,Sheet1!B13:F13,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P012,(pseudonymised),Car,Car,10:20,11:42,82.0,82,OK,Expt 8.xlsx,Sheet1!B14:F14,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P013,(pseudonymised),Car,Car,10:20,11:42,82.0,82,OK,Expt 8.xlsx,Sheet1!B15:F15,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P014,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B16:F16,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P015,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B17:F17,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P016,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B18:F18,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P017,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B19:F19,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P018,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B20:F20,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P019,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B21:F21,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P020,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B22:F22,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P021,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B23:F23,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P022,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B24:F24,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P023,(pseudonymised),Car,Car,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B25:F25,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P024,(pseudonymised),Bus,Bus,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B26:F26,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P025,(pseudonymised),Bus,Bus,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B27:F27,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P026,(pseudonymised),Bus,Bus,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B28:F28,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P027,(pseudonymised),Bus,Bus,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B29:F29,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P028,(pseudonymised),2 wheeler,Two Wheeler,10:20,10:35,15.0,15,OK,Expt 8.xlsx,Sheet1!B30:F30,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P029,(pseudonymised),2 wheeler,Two Wheeler,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B31:F31,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P030,(pseudonymised),2 wheeler,Two Wheeler,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B32:F32,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P031,(pseudonymised),2 wheeler,Two Wheeler,10:20,11:44,84.0,84,OK,Expt 8.xlsx,Sheet1!B33:F33,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P032,(pseudonymised),2 wheeler,Two Wheeler,10:20,10:37,17.0,17,OK,Expt 8.xlsx,Sheet1!B34:F34,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P033,(pseudonymised),2 wheeler,Two Wheeler,10:20,10:35,15.0,15,OK,Expt 8.xlsx,Sheet1!B35:F35,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P034,(pseudonymised),2 wheeler,Two Wheeler,10:20,10:35,15.0,15,OK,Expt 8.xlsx,Sheet1!B36:F36,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P035,(pseudonymised),Car,Car,10:25,10:37,12.0,12,OK,Expt 8.xlsx,Sheet1!B37:F37,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P036,(pseudonymised),Car,Car,10:31,10:34,3.0,3,OK,Expt 8.xlsx,Sheet1!B38:F38,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P037,(pseudonymised),Car,Car,10:35,11:44,,69,MISMATCH,Expt 8.xlsx,Sheet1!B39:F39,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P038,(pseudonymised),2 wheeler,Two Wheeler,10:35,10:52,17.0,17,OK,Expt 8.xlsx,Sheet1!B40:F40,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P039,(pseudonymised),2 wheeler,Two Wheeler,10:35,10:40,5.0,5,OK,Expt 8.xlsx,Sheet1!B41:F41,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P040,(pseudonymised),Car,Car,10:36,11:44,68.0,68,OK,Expt 8.xlsx,Sheet1!B42:F42,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P041,(pseudonymised),Car,Car,10:37,11:00,23.0,23,OK,Expt 8.xlsx,Sheet1!B43:F43,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P042,(pseudonymised),Car,Car,10:43,10:50,7.0,7,OK,Expt 8.xlsx,Sheet1!B44:F44,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P043,(pseudonymised),2 wheeler,Two Wheeler,10:45,10:52,7.0,7,OK,Expt 8.xlsx,Sheet1!B45:F45,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P044,(pseudonymised),2 wheeler,Two Wheeler,10:45,10:50,5.0,5,OK,Expt 8.xlsx,Sheet1!B46:F46,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P045,(pseudonymised),2 wheeler,Two Wheeler,10:47,11:22,35.0,35,OK,Expt 8.xlsx,Sheet1!B47:F47,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P046,(pseudonymised),Car,Car,10:48,11:41,53.0,53,OK,Expt 8.xlsx,Sheet1!B48:F48,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P047,(pseudonymised),Bus,Bus,10:50,11:10,20.0,20,OK,Expt 8.xlsx,Sheet1!B49:F49,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P048,(pseudonymised),2 wheeler,Two Wheeler,10:50,10:55,5.0,5,OK,Expt 8.xlsx,Sheet1!B50:F50,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P049,(pseudonymised),Car,Car,10:51,11:13,22.0,22,OK,Expt 8.xlsx,Sheet1!B51:F51,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P050,(pseudonymised),2 wheeler,Two Wheeler,10:53,11:16,23.0,23,OK,Expt 8.xlsx,Sheet1!B52:F52,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P051,(pseudonymised),Car,Car,10:54,11:22,28.0,28,OK,Expt 8.xlsx,Sheet1!B53:F53,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P052,(pseudonymised),2 wheeler,Two Wheeler,10:55,11:02,7.0,7,OK,Expt 8.xlsx,Sheet1!B54:F54,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P053,(pseudonymised),Car,Car,10:56,11:14,18.0,18,OK,Expt 8.xlsx,Sheet1!B55:F55,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P054,(pseudonymised),Car,Car,10:56,11:38,42.0,42,OK,Expt 8.xlsx,Sheet1!B56:F56,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P055,(pseudonymised),2 wheeler,Two Wheeler,10:56,11:33,37.0,37,OK,Expt 8.xlsx,Sheet1!B57:F57,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P056,(pseudonymised),2 wheeler,Two Wheeler,10:57,11:26,29.0,29,OK,Expt 8.xlsx,Sheet1!B58:F58,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P057,(pseudonymised),2 wheeler,Two Wheeler,10:57,11:29,32.0,32,OK,Expt 8.xlsx,Sheet1!B59:F59,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P058,(pseudonymised),2 wheeler,Two Wheeler,10:58,11:17,19.0,19,OK,Expt 8.xlsx,Sheet1!B60:F60,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P059,(pseudonymised),Car,Car,11:00,11:06,6.0,6,OK,Expt 8.xlsx,Sheet1!B61:F61,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P060,(pseudonymised),2 wheeler,Two Wheeler,11:00,11:26,26.0,26,OK,Expt 8.xlsx,Sheet1!B62:F62,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P061,(pseudonymised),Car,Car,11:02,11:20,18.0,18,OK,Expt 8.xlsx,Sheet1!B63:F63,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P004,(pseudonymised),Car,Car,11:02,11:44,42.0,42,OK,Expt 8.xlsx,Sheet1!B64:F64,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P062,(pseudonymised),2 wheeler,Two Wheeler,11:02,11:08,6.0,6,OK,Expt 8.xlsx,Sheet1!B65:F65,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P063,(pseudonymised),2 wheeler,Two Wheeler,11:02,11:26,24.0,24,OK,Expt 8.xlsx,Sheet1!B66:F66,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P064,(pseudonymised),2 wheeler,Two Wheeler,11:02,11:26,24.0,24,OK,Expt 8.xlsx,Sheet1!B67:F67,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P065,(pseudonymised),2 wheeler,Two Wheeler,11:02,11:18,16.0,16,OK,Expt 8.xlsx,Sheet1!B68:F68,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P066,(pseudonymised),Car,Car,11:03,11:28,25.0,25,OK,Expt 8.xlsx,Sheet1!B69:F69,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P067,(pseudonymised),2 wheeler,Two Wheeler,11:03,11:26,23.0,23,OK,Expt 8.xlsx,Sheet1!B70:F70,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P068,(pseudonymised),2 wheeler,Two Wheeler,11:03,11:33,30.0,30,OK,Expt 8.xlsx,Sheet1!B71:F71,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P069,(pseudonymised),2 wheeler,Two Wheeler,11:03,11:26,23.0,23,OK,Expt 8.xlsx,Sheet1!B72:F72,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P070,(pseudonymised),2 wheeler,Two Wheeler,11:04,11:36,32.0,32,OK,Expt 8.xlsx,Sheet1!B73:F73,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P071,(pseudonymised),2 wheeler,Two Wheeler,11:06,11:22,16.0,16,OK,Expt 8.xlsx,Sheet1!B74:F74,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P072,(pseudonymised),2 wheeler,Two Wheeler,11:06,11:19,13.0,13,OK,Expt 8.xlsx,Sheet1!B75:F75,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P073,(pseudonymised),2 wheeler,Two Wheeler,11:06,11:22,16.0,16,OK,Expt 8.xlsx,Sheet1!B76:F76,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P074,(pseudonymised),2 wheeler,Two Wheeler,11:06,11:22,16.0,16,OK,Expt 8.xlsx,Sheet1!B77:F77,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P075,(pseudonymised),2 wheeler,Two Wheeler,11:06,11:26,20.0,20,OK,Expt 8.xlsx,Sheet1!B78:F78,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P076,(pseudonymised),2 wheeler,Two Wheeler,11:06,11:32,26.0,26,OK,Expt 8.xlsx,Sheet1!B79:F79,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P077,(pseudonymised),Car,Car,11:07,11:31,24.0,24,OK,Expt 8.xlsx,Sheet1!B80:F80,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P078,(pseudonymised),2 wheeler,Two Wheeler,11:07,11:18,11.0,11,OK,Expt 8.xlsx,Sheet1!B81:F81,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P079,(pseudonymised),2 wheeler,Two Wheeler,11:07,11:33,26.0,26,OK,Expt 8.xlsx,Sheet1!B82:F82,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P080,(pseudonymised),2 wheeler,Two Wheeler,11:07,11:24,17.0,17,OK,Expt 8.xlsx,Sheet1!B83:F83,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P081,(pseudonymised),2 wheeler,Two Wheeler,11:07,11:26,19.0,19,OK,Expt 8.xlsx,Sheet1!B84:F84,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P082,(pseudonymised),2 wheeler,Two Wheeler,11:07,11:21,14.0,14,OK,Expt 8.xlsx,Sheet1!B85:F85,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P083,(pseudonymised),2 wheeler,Two Wheeler,11:08,11:24,16.0,16,OK,Expt 8.xlsx,Sheet1!B86:F86,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P084,(pseudonymised),2 wheeler,Two Wheeler,11:09,11:26,17.0,17,OK,Expt 8.xlsx,Sheet1!B87:F87,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P085,(pseudonymised),Car,Car,11:12,11:29,17.0,17,OK,Expt 8.xlsx,Sheet1!B88:F88,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P086,(pseudonymised),Car,Car,11:12,11:27,15.0,15,OK,Expt 8.xlsx,Sheet1!B89:F89,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P087,(pseudonymised),Car,Car,11:12,11:25,13.0,13,OK,Expt 8.xlsx,Sheet1!B90:F90,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P088,(pseudonymised),2 wheeler,Two Wheeler,11:12,11:15,3.0,3,OK,Expt 8.xlsx,Sheet1!B91:F91,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P089,(pseudonymised),2 wheeler,Two Wheeler,11:12,11:26,14.0,14,OK,Expt 8.xlsx,Sheet1!B92:F92,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P090,(pseudonymised),Car,Car,11:13,11:28,15.0,15,OK,Expt 8.xlsx,Sheet1!B93:F93,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P091,(pseudonymised),2 wheeler,Two Wheeler,11:14,11:22,8.0,8,OK,Expt 8.xlsx,Sheet1!B94:F94,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P092,(pseudonymised),2 wheeler,Two Wheeler,11:14,11:25,11.0,11,OK,Expt 8.xlsx,Sheet1!B95:F95,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P093,(pseudonymised),Car,Car,11:15,11:44,29.0,29,OK,Expt 8.xlsx,Sheet1!B96:F96,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P094,(pseudonymised),Car,Car,11:15,11:28,13.0,13,OK,Expt 8.xlsx,Sheet1!B97:F97,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P095,(pseudonymised),2 wheeler,Two Wheeler,11:15,11:18,3.0,3,OK,Expt 8.xlsx,Sheet1!B98:F98,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P050,(pseudonymised),2 wheeler,Two Wheeler,11:16,11:27,11.0,11,OK,Expt 8.xlsx,Sheet1!B99:F99,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P096,(pseudonymised),E- Rickshaw,E-Rickshaw,11:16,11:35,19.0,19,OK,Expt 8.xlsx,Sheet1!B100:F100,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P097,(pseudonymised),Car,Car,11:17,11:22,5.0,5,OK,Expt 8.xlsx,Sheet1!B101:F101,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P098,(pseudonymised),2 wheeler,Two Wheeler,11:17,11:20,3.0,3,OK,Expt 8.xlsx,Sheet1!B102:F102,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P099,(pseudonymised),Car,Car,11:20,11:46,26.0,26,OK,Expt 8.xlsx,Sheet1!B103:F103,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P100,(pseudonymised),2 wheeler,Two Wheeler,11:20,11:28,8.0,8,OK,Expt 8.xlsx,Sheet1!B104:F104,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P101,(pseudonymised),2 wheeler,Two Wheeler,11:22,11:32,10.0,10,OK,Expt 8.xlsx,Sheet1!B105:F105,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P067,(pseudonymised),2 wheeler,Two Wheeler,11:22,11:34,12.0,12,OK,Expt 8.xlsx,Sheet1!B106:F106,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P102,(pseudonymised),Bus,Bus,11:25,11:45,20.0,20,OK,Expt 8.xlsx,Sheet1!B107:F107,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P103,(pseudonymised),Car,Car,11:25,11:27,2.0,2,OK,Expt 8.xlsx,Sheet1!B108:F108,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P104,(pseudonymised),Car,Car,11:25,11:28,3.0,3,OK,Expt 8.xlsx,Sheet1!B109:F109,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P105,(pseudonymised),Car,Car,11:25,11:29,4.0,4,OK,Expt 8.xlsx,Sheet1!B110:F110,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P106,(pseudonymised),Car,Car,11:27,11:34,7.0,7,OK,Expt 8.xlsx,Sheet1!B111:F111,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P107,(pseudonymised),2 wheeler,Two Wheeler,11:28,11:35,7.0,7,OK,Expt 8.xlsx,Sheet1!B112:F112,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P108,(pseudonymised),2 wheeler,Two Wheeler,11:28,11:35,7.0,7,OK,Expt 8.xlsx,Sheet1!B113:F113,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P013,(pseudonymised),Car,Car,11:29,11:42,13.0,13,OK,Expt 8.xlsx,Sheet1!B114:F114,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P109,(pseudonymised),Car,Car,11:31,11:45,14.0,14,OK,Expt 8.xlsx,Sheet1!B115:F115,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P110,(pseudonymised),Car,Car,11:37,11:45,8.0,8,OK,Expt 8.xlsx,Sheet1!B116:F116,xlsx
+Group 5,Exp8,"Road-side parking near KV School, IIT Guwahati",G5P111,(pseudonymised),Car,Car,11:41,11:44,3.0,3,OK,Expt 8.xlsx,Sheet1!B117:F117,xlsx

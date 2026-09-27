@@ -24,7 +24,7 @@ T = pd.read_csv(os.path.join(INP, 'internal_do_not_share', 'when_crash_hours.csv
 c = T[(T.is_case == 1) & T.police_severity.notna() & T.light_computed.notna()].copy()
 _, F, _, _ = RF.static_features(INP)
 eng = ['hw_rank', 'turn_contrast', 'junctions_per_km', 'poi_500m', 'ped_places_x_main', 'dist_to_town_km', 'light_contrast', 'road_km_5km', 'is_divided']
-c = c.merge(F[['segment_id'] + eng], on='segment_id', how='left')
+c = c.drop(columns=[e for e in eng if e in c.columns]).merge(F[['segment_id'] + eng], on='segment_id', how='left')
 c['fatal'] = (c.police_severity == 'Fatal').astype(int)
 c['period'] = np.where(pd.to_datetime(c.dt_ist).dt.year <= 2024, 'train', 'test')
 c['light'] = pd.Categorical(c.light_computed.replace({'civil_twilight': 'twilight'}), ['daylight', 'twilight', 'dark'])

@@ -1,0 +1,10 @@
+group,interval,accumulation_reported,occupancy_at_interval_start_recomputed,source_file,source_location
+Group 5,10:20 - 10:30,32,34,Expt 8.xlsx,Sheet1!I3:K3
+Group 5,10:30 - 10:40,28,31,Expt 8.xlsx,Sheet1!I4:K4
+Group 5,10:40 - 10:50,33,27,Expt 8.xlsx,Sheet1!I5:K5
+Group 5,10:50 - 11:00,40,31,Expt 8.xlsx,Sheet1!I6:K6
+Group 5,11:00 - 11:10,60,39,Expt 8.xlsx,Sheet1!I7:K7
+Group 5,11:10 - 11:20,67,59,Expt 8.xlsx,Sheet1!I8:K8
+Group 5,11:20 - 11:30,42,65,Expt 8.xlsx,Sheet1!I9:K9
+Group 5,11:30 - 11:40,31,42,Expt 8.xlsx,Sheet1!I10:K10
+Group 5,11:40 - 11:45,31,31,Expt 8.xlsx,Sheet1!I11:K11

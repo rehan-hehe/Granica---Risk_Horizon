@@ -1,0 +1,344 @@
+group,experiment,parameter,subgroup,reported_value,unit,recomputed_value,check,source_file,source_location,extraction_method,note
+Group 5,Exp3,Total vehicles in 10 min,Median (Lane 2),150,veh,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume row 9,xlsx,
+Group 5,Exp3,"Total equivalent flow in 10 min (report text says ""178 PCU""/""150 PCU"")",Median (Lane 2),150,PCU,250.3,MISMATCH,Transport Lab 3.docx,§4.1,docx text,Report value equals the VEHICLE count; PCU sum is larger
+Group 5,Exp3,Total vehicles in 10 min,Shoulder (Lane 1),178,veh,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume row 9,xlsx,
+Group 5,Exp3,"Total equivalent flow in 10 min (report text says ""178 PCU""/""150 PCU"")",Shoulder (Lane 1),178,PCU,206.2,MISMATCH,Transport Lab 3.docx,§4.1,docx text,Report value equals the VEHICLE count; PCU sum is larger
+Group 5,Exp3,PHF (2-min basis),Shoulder (Lane 1),0.8118,-,0.8118,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume C37,xlsx,
+Group 5,Exp3,PHF (2-min basis),Median (Lane 2),0.934,-,0.934,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Traffic Volume F37,xlsx,
+Group 5,Exp3,PHF (report text),Shoulder,0.811,-,,,Transport Lab 3.docx,§4.1,docx text,
+Group 5,Exp3,PHF (report text),Median,0.933,-,,,Transport Lab 3.docx,§4.1,docx text,
+Group 5,Exp3,Free-flow speed mean,Shoulder Car,57.8328,km/h,57.8327,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!U54,xlsx,n_free(flag)=14
+Group 5,Exp3,Free-flow speed p85,Shoulder Car,75.1127,km/h,75.1127,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!U55,xlsx,
+Group 5,Exp3,Free-flow speed p50,Shoulder Car,55.7324,km/h,55.7325,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!U56,xlsx,
+Group 5,Exp3,Free-flow speed mean,Shoulder Truck,42.1445,km/h,42.1445,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X54,xlsx,n_free(flag)=6
+Group 5,Exp3,Free-flow speed p85,Shoulder Truck,49.9149,km/h,49.9147,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X55,xlsx,
+Group 5,Exp3,Free-flow speed p50,Shoulder Truck,39.1047,km/h,39.105,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X56,xlsx,
+Group 5,Exp3,Free-flow speed mean,Shoulder LCV,54.8321,km/h,54.8319,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!U59,xlsx,n_free(flag)=8
+Group 5,Exp3,Free-flow speed p85,Shoulder LCV,67.3058,km/h,67.306,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!U60,xlsx,
+Group 5,Exp3,Free-flow speed p50,Shoulder LCV,51.4014,km/h,51.401,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!U61,xlsx,
+Group 5,Exp3,Free-flow speed mean,Shoulder Two Wheeler,57.438,km/h,57.4381,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X59,xlsx,n_free(flag)=7
+Group 5,Exp3,Free-flow speed p85,Shoulder Two Wheeler,64.4507,km/h,64.4509,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X60,xlsx,
+Group 5,Exp3,Free-flow speed p50,Shoulder Two Wheeler,59.2105,km/h,59.211,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X61,xlsx,
+Group 5,Exp3,Free-flow speed mean,Shoulder Auto,41.3938,km/h,41.3939,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!V64,xlsx,n_free(flag)=7
+Group 5,Exp3,Free-flow speed p85,Shoulder Auto,52.8928,km/h,52.8926,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!V65,xlsx,
+Group 5,Exp3,Free-flow speed p50,Shoulder Auto,40,km/h,40.0,MATCH,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!V66,xlsx,
+Group 5,Exp3,"Chi-square (normal fit), free",Shoulder Car,4.7316,-,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!X25,xlsx,
+Group 5,Exp3,"Chi-square (normal fit), free",Shoulder Truck,2.5825,-,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!AG18,xlsx,
+Group 5,Exp3,"Chi-square (normal fit), free",Shoulder LCV,1.1784,-,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!AP19,xlsx,
+Group 5,Exp3,"Chi-square (normal fit), free",Shoulder Two Wheeler,2.6765,-,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Shoulder lane!AY17,xlsx,
+Group 5,Exp3,"Chi-square (normal fit), stream",Shoulder Car,11.8645,-,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Speed Stream Ana!Z73,xlsx,
+Group 5,Exp3,"Chi-square (normal fit), stream",Median Car,15.4109,-,,,Bhavesh_Traffic volume video_analysis_datasheet_1.xlsx,Speed Stream Analysis!Y88,xlsx,
+Group 5,Exp3,"Chi-square calc (report, ""free-flow"" car normality)",Shoulder Car,11.864,-,,,Transport Lab 3.docx,§4.2 B,docx text,"dof 6, crit 12.592, accepted"
+Group 5,Exp3,"Chi-square calc (report, ""free-flow"" car normality)",Median Car,15.4109,-,,,Transport Lab 3.docx,§4.2 B,docx text,"dof 4, crit 9.488, rejected; value equals the STREAM sheet (Y88)"
+Group 5,Exp4,Mean time headway,Shoulder,3.0438,s,3.0599,MATCH,Expt 4.xlsx,General!Z36,xlsx,"recomputed from Exp3 in-times, gap to leader"
+Group 5,Exp4,Mean time headway,Median,4.4171,s,4.4511,MISMATCH,Expt 4.xlsx,General!BA35,xlsx,small difference: Expt 4 sheet uses raw-entry times / its own headway column (one median headway differs)
+Group 5,Exp4,SD time headway,Shoulder,3.584609,s,3.5872,MATCH,transportation exp 4.docx,image84,image (read),
+Group 5,Exp4,SD time headway,Median,4.401448274,s,4.4012,MATCH,transportation exp 4.docx,image85,image (read),
+Group 5,Exp4,Neg-exp lambda,Shoulder,0.328532,1/s,0.3268,MATCH,transportation exp 4.docx,image84,image (read),
+Group 5,Exp4,Neg-exp lambda,Median,0.226392921,1/s,0.2247,MATCH,transportation exp 4.docx,image85,image (read),
+Group 5,Exp4,Total observations,Shoulder,189,veh,190.0,MISMATCH,Expt 4.xlsx,General!AC34,xlsx,
+Group 5,Exp4,Total observations,Median,131,veh,131.0,MATCH,Expt 4.xlsx,General!AT43,xlsx,
+Group 5,Exp4,Best-fit headway distribution,,Negative exponential (both lanes),,,,transportation exp 4.docx,§5.5,docx text,
+Group 12,Exp4,Vehicle count,Lane 1 (Inner),113,veh,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Mean headway,Lane 1 (Inner),5.334,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,SD headway,Lane 1 (Inner),2.734,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Min headway,Lane 1 (Inner),0.042,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Vehicle count,Lane 2 (Outer),139,veh,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Mean headway,Lane 2 (Outer),4.429,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,SD headway,Lane 2 (Outer),2.5,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Min headway,Lane 2 (Outer),0.306,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Vehicle count,Combined,252,veh,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Mean headway,Combined,2.437,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,SD headway,Combined,1.783,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Min headway,Combined,0.042,s,,,Group12_exp4.pdf,p.3 table,pdf text,
+Group 12,Exp4,Headway p5,Inner lane CDF,0.076,s,,,Group12_exp4.pdf,p.4,pdf text,
+Group 12,Exp4,Headway p15,Inner lane CDF,1.0,s,,,Group12_exp4.pdf,p.4,pdf text,
+Group 12,Exp4,Headway p50,Inner lane CDF,7.5,s,,,Group12_exp4.pdf,p.4,pdf text,
+Group 12,Exp4,Headway p85,Inner lane CDF,402.15,s,,,Group12_exp4.pdf,p.4,pdf text,
+Group 12,Exp4,Headway p95,Inner lane CDF,527.83,s,,,Group12_exp4.pdf,p.4,pdf text,
+Group 12,Exp4,Chi-square normal (stat/crit/p/df),Lane 1,25.89529843,-,,,Group12_exp4.pdf,image p.8 Result Summary,image (read),"crit 21.02606982, p 0.011105972, df 12, Not Appropriate"
+Group 12,Exp4,Chi-square exponential (stat/crit/p/df),Lane 1,86.52306066,-,,,Group12_exp4.pdf,image p.8 Result Summary,image (read),"crit 22.36203249, p 0, df 13, Not Appropriate"
+Group 12,Exp4,Chi-square normal (stat/crit/p/df),Lane 2,27.5051293,-,,,Group12_exp4.pdf,image p.8 Result Summary,image (read),"crit 22.36203249, p 0.010601231, df 13, Not Appropriate"
+Group 12,Exp4,Chi-square exponential (stat/crit/p/df),Lane 2,146.7987247,-,,,Group12_exp4.pdf,image p.8 Result Summary,image (read),"crit 24.99579014, p 0, df 15, Not Appropriate"
+Group 12,Exp4,Chi-square normal (stat/crit/p/df),Combined,16.92744022,-,,,Group12_exp4.pdf,image p.8 Result Summary,image (read),"crit 18.30703805, p 0.075985041, df 10, Appropriate"
+Group 12,Exp4,Chi-square exponential (stat/crit/p/df),Combined,52.76472922,-,,,Group12_exp4.pdf,image p.8 Result Summary,image (read),"crit 22.36203249, p 9.92956e-07, df 13, Not Appropriate"
+Group 5,Exp5,Free-flow mean speed,Truck,40.556,km/h,40.5556,MATCH,Expt 5.xlsx,Sheet1!AA14,xlsx,n=18
+Group 5,Exp5,Free-flow SD,Truck,11.315,km/h,11.3149,MATCH,Expt 5.xlsx,Sheet1!AA15,xlsx,
+Group 5,Exp5,Free-flow p85,Truck,54.04999999999999,km/h,54.05,MATCH,Expt 5.xlsx,Sheet1!AA16,xlsx,group used PERCENTILE.EXC; INC would give 52.45
+Group 5,Exp5,Free-flow p50,Truck,39.5,km/h,39.5,MATCH,Expt 5.xlsx,Sheet1!AA17,xlsx,
+Group 5,Exp5,Combined (stream) mean speed,Truck,34.276,km/h,34.2759,MATCH,Expt 5.xlsx,Sheet1!AA49,xlsx,n=58
+Group 5,Exp5,Combined (stream) SD,Truck,9.472,km/h,9.4716,MATCH,Expt 5.xlsx,Sheet1!AA50,xlsx,
+Group 5,Exp5,Combined (stream) p85,Truck,43.15,km/h,43.15,MATCH,Expt 5.xlsx,Sheet1!AA51,xlsx,group used PERCENTILE.EXC; INC would give 43.00
+Group 5,Exp5,Combined (stream) p50,Truck,33,km/h,33.0,MATCH,Expt 5.xlsx,Sheet1!AA52,xlsx,
+Group 5,Exp5,Free-flow mean speed,Car,58.455,km/h,58.4545,MATCH,Expt 5.xlsx,Sheet1!AH14,xlsx,n=11
+Group 5,Exp5,Free-flow SD,Car,11.003,km/h,11.0033,MATCH,Expt 5.xlsx,Sheet1!AH15,xlsx,
+Group 5,Exp5,Free-flow p85,Car,74.2,km/h,74.2,MATCH,Expt 5.xlsx,Sheet1!AH16,xlsx,group used PERCENTILE.EXC; INC would give 72.00
+Group 5,Exp5,Free-flow p50,Car,55,km/h,55.0,MATCH,Expt 5.xlsx,Sheet1!AH17,xlsx,
+Group 5,Exp5,Combined (stream) mean speed,Car,49.855,km/h,49.8545,MATCH,Expt 5.xlsx,Sheet1!AH49,xlsx,n=55
+Group 5,Exp5,Combined (stream) SD,Car,10.648,km/h,10.6483,MATCH,Expt 5.xlsx,Sheet1!AH50,xlsx,
+Group 5,Exp5,Combined (stream) p85,Car,60,km/h,60.0,MATCH,Expt 5.xlsx,Sheet1!AH51,xlsx,group used PERCENTILE.EXC; INC would give 60.00
+Group 5,Exp5,Combined (stream) p50,Car,50,km/h,50.0,MATCH,Expt 5.xlsx,Sheet1!AH52,xlsx,
+Group 5,Exp5,Free-flow mean speed,Auto,32.944,km/h,32.9444,MATCH,Expt 5.xlsx,Sheet1!AP14,xlsx,n=18
+Group 5,Exp5,Free-flow SD,Auto,5.995,km/h,5.9948,MATCH,Expt 5.xlsx,Sheet1!AP15,xlsx,
+Group 5,Exp5,Free-flow p85,Auto,39.15,km/h,39.15,MATCH,Expt 5.xlsx,Sheet1!AP16,xlsx,group used PERCENTILE.EXC; INC would give 39.00
+Group 5,Exp5,Free-flow p50,Auto,34,km/h,34.0,MATCH,Expt 5.xlsx,Sheet1!AP17,xlsx,
+Group 5,Exp5,Combined (stream) mean speed,Auto,29.537,km/h,29.537,MATCH,Expt 5.xlsx,Sheet1!AP49,xlsx,n=54
+Group 5,Exp5,Combined (stream) SD,Auto,7.748,km/h,7.7477,MATCH,Expt 5.xlsx,Sheet1!AP50,xlsx,
+Group 5,Exp5,Combined (stream) p85,Auto,38,km/h,38.0,MATCH,Expt 5.xlsx,Sheet1!AP51,xlsx,group used PERCENTILE.EXC; INC would give 38.00
+Group 5,Exp5,Combined (stream) p50,Auto,30,km/h,30.0,MATCH,Expt 5.xlsx,Sheet1!AP52,xlsx,
+Group 5,Exp5,Free-flow mean speed,LCV,43.083,km/h,43.0833,MATCH,Expt 5.xlsx,Sheet1!AX14,xlsx,n=12
+Group 5,Exp5,Free-flow SD,LCV,8.969,km/h,8.9692,MATCH,Expt 5.xlsx,Sheet1!AX15,xlsx,
+Group 5,Exp5,Free-flow p85,LCV,52.24999999999999,km/h,52.25,MATCH,Expt 5.xlsx,Sheet1!AX16,xlsx,group used PERCENTILE.EXC; INC would give 51.35
+Group 5,Exp5,Free-flow p50,LCV,45.5,km/h,45.5,MATCH,Expt 5.xlsx,Sheet1!AX17,xlsx,
+Group 5,Exp5,Combined (stream) mean speed,LCV,38.211,km/h,38.2105,MATCH,Expt 5.xlsx,Sheet1!AX49,xlsx,n=57
+Group 5,Exp5,Combined (stream) SD,LCV,10.655,km/h,10.6549,MATCH,Expt 5.xlsx,Sheet1!AX50,xlsx,
+Group 5,Exp5,Combined (stream) p85,LCV,50,km/h,50.0,MATCH,Expt 5.xlsx,Sheet1!AX51,xlsx,group used PERCENTILE.EXC; INC would give 49.60
+Group 5,Exp5,Combined (stream) p50,LCV,37,km/h,37.0,MATCH,Expt 5.xlsx,Sheet1!AX52,xlsx,
+Group 5,Exp5,Free-flow mean speed,Bus,40.5,km/h,40.5,MATCH,Expt 5.xlsx,Sheet1!BF14,xlsx,n=8
+Group 5,Exp5,Free-flow SD,Bus,5.831,km/h,5.831,MATCH,Expt 5.xlsx,Sheet1!BF15,xlsx,
+Group 5,Exp5,Free-flow p85,Bus,49.599999999999994,km/h,49.6,MATCH,Expt 5.xlsx,Sheet1!BF16,xlsx,group used PERCENTILE.EXC; INC would give 46.75
+Group 5,Exp5,Free-flow p50,Bus,38.5,km/h,38.5,MATCH,Expt 5.xlsx,Sheet1!BF17,xlsx,
+Group 5,Exp5,Combined (stream) mean speed,Bus,35.235,km/h,35.2353,MATCH,Expt 5.xlsx,Sheet1!BF49,xlsx,n=51
+Group 5,Exp5,Combined (stream) SD,Bus,9.488,km/h,9.4881,MATCH,Expt 5.xlsx,Sheet1!BF50,xlsx,
+Group 5,Exp5,Combined (stream) p85,Bus,43.199999999999996,km/h,43.2,MATCH,Expt 5.xlsx,Sheet1!BF51,xlsx,group used PERCENTILE.EXC; INC would give 42.50
+Group 5,Exp5,Combined (stream) p50,Bus,38,km/h,38.0,MATCH,Expt 5.xlsx,Sheet1!BF52,xlsx,
+Group 5,Exp5,Free-flow mean speed,Two Wheeler,50.966,km/h,50.9655,MATCH,Expt 5.xlsx,Sheet1!BN14,xlsx,n=29
+Group 5,Exp5,Free-flow SD,Two Wheeler,11.506,km/h,11.5062,MATCH,Expt 5.xlsx,Sheet1!BN15,xlsx,
+Group 5,Exp5,Free-flow p85,Two Wheeler,63,km/h,63.0,MATCH,Expt 5.xlsx,Sheet1!BN16,xlsx,group used PERCENTILE.EXC; INC would give 60.00
+Group 5,Exp5,Free-flow p50,Two Wheeler,51,km/h,51.0,MATCH,Expt 5.xlsx,Sheet1!BN17,xlsx,
+Group 5,Exp5,Combined (stream) mean speed,Two Wheeler,43.274,km/h,43.274,MATCH,Expt 5.xlsx,Sheet1!BN49,xlsx,n=73
+Group 5,Exp5,Combined (stream) SD,Two Wheeler,12.525,km/h,12.5247,MATCH,Expt 5.xlsx,Sheet1!BN50,xlsx,
+Group 5,Exp5,Combined (stream) p85,Two Wheeler,56.9,km/h,56.9,MATCH,Expt 5.xlsx,Sheet1!BN51,xlsx,group used PERCENTILE.EXC; INC would give 56.20
+Group 5,Exp5,Combined (stream) p50,Two Wheeler,41,km/h,41.0,MATCH,Expt 5.xlsx,Sheet1!BN52,xlsx,
+Group 12,Exp5,N free,Truck,49,veh,20.0,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N combined,Truck,49,veh,49.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean free,Truck,35.61,km/h,37.0,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean combined,Truck,37,km/h,35.6122,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 free,Truck,42,km/h,42.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 combined,Truck,42.8,km/h,42.8,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 free,Truck,36,km/h,36.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 combined,Truck,36,km/h,36.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD free,Truck,5.3,km/h,5.3014,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD combined,Truck,6.96,km/h,6.9577,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N free,LCV,55,veh,14.0,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N combined,LCV,55,veh,55.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean free,LCV,40.21,km/h,46.1429,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean combined,LCV,46.14,km/h,40.2182,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 free,LCV,54.25,km/h,54.25,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 combined,LCV,47.9,km/h,47.9,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 free,LCV,46,km/h,46.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 combined,LCV,40,km/h,40.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD free,LCV,8.47,km/h,8.4658,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD combined,LCV,8.64,km/h,8.6425,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N free,Car,58,veh,15.0,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N combined,Car,59,veh,59.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean free,Car,44.81,km/h,57.4,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean combined,Car,57.4,km/h,44.8136,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 free,Car,64.7,km/h,64.7,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 combined,Car,56,km/h,56.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 free,Car,55,km/h,55.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 combined,Car,46,km/h,46.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD free,Car,13.72,km/h,13.7207,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD combined,Car,14.05,km/h,14.0473,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N free,Two Wheeler,44,veh,15.0,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,N combined,Two Wheeler,44,veh,44.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean free,Two Wheeler,46.56,km/h,45.0667,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,Mean combined,Two Wheeler,45.07,km/h,46.5682,MISMATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 free,Two Wheeler,64.8,km/h,64.8,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p85 combined,Two Wheeler,60.1,km/h,60.1,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 free,Two Wheeler,47,km/h,47.0,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,p50 combined,Two Wheeler,48.5,km/h,48.5,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD free,Two Wheeler,19.48,km/h,19.4843,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Group 12,Exp5,SD combined,Two Wheeler,14.17,km/h,14.1707,MATCH,CE323_EXP5.pdf,p.9 comparison table,pdf text,
+Individual (Ayush Kumar),Exp5,Number of observations,Truck,38,veh,,,Spot Speed Study using Radar speed gun.pdf,p.4 Data Table,pdf text,
+Individual (Ayush Kumar),Exp5,Number of observations,LCV,45,veh,,,Spot Speed Study using Radar speed gun.pdf,p.4 Data Table,pdf text,
+Individual (Ayush Kumar),Exp5,Number of observations,Bus,37,veh,,,Spot Speed Study using Radar speed gun.pdf,p.4 Data Table,pdf text,
+Individual (Ayush Kumar),Exp5,Number of observations,Car,102,veh,,,Spot Speed Study using Radar speed gun.pdf,p.4 Data Table,pdf text,
+Individual (Ayush Kumar),Exp5,Number of observations,Auto,34,veh,,,Spot Speed Study using Radar speed gun.pdf,p.4 Data Table,pdf text,
+Individual (Ayush Kumar),Exp5,Number of observations,Two Wheeler,89,veh,,,Spot Speed Study using Radar speed gun.pdf,p.4 Data Table,pdf text,
+Individual (Ayush Kumar),Exp5,Car mean speed,,≈54.6,km/h,,,Spot Speed Study using Radar speed gun.pdf,p.4 Results,pdf text,
+Individual (Ayush Kumar),Exp5,Two Wheeler mean speed,,≈52,km/h,,,Spot Speed Study using Radar speed gun.pdf,p.4 Results,pdf text,
+Individual (Ayush Kumar),Exp5,Auto mean speed,,≈33,km/h,,,Spot Speed Study using Radar speed gun.pdf,p.4 Results,pdf text,
+Individual (Ayush Kumar),Exp5,Car p85 speed,,≈67,km/h,,,Spot Speed Study using Radar speed gun.pdf,p.4 Results,pdf text,
+Group 5,Exp6,Flow q (PCU/h),NB-1,1735.212,PCU/h,1735.212,MATCH,Expt 6.xlsx,Sheet1!R5:AA5,xlsx,Recomputed with opposite count from the paired opposite-direction trip (the Nsb/Nnb labels in the sheet are swapped but values are used correctly)
+Group 5,Exp6,Stream speed v (km/h),NB-1,41.74,km/h,41.74,MATCH,Expt 6.xlsx,Sheet1!R5:AA5,xlsx,
+Group 5,Exp6,Density k (PCU/km),NB-1,41.572,PCU/km,41.572,MATCH,Expt 6.xlsx,Sheet1!R5:AA5,xlsx,
+Group 5,Exp6,Flow q (PCU/h),NB-2,2264.802,PCU/h,2264.802,MATCH,Expt 6.xlsx,Sheet1!R6:AA6,xlsx,Recomputed with opposite count from the paired opposite-direction trip (the Nsb/Nnb labels in the sheet are swapped but values are used correctly)
+Group 5,Exp6,Stream speed v (km/h),NB-2,42.275,km/h,42.275,MATCH,Expt 6.xlsx,Sheet1!R6:AA6,xlsx,
+Group 5,Exp6,Density k (PCU/km),NB-2,53.573,PCU/km,53.573,MATCH,Expt 6.xlsx,Sheet1!R6:AA6,xlsx,
+Group 5,Exp6,Flow q (PCU/h),SB-1,1627.64,PCU/h,1627.64,MATCH,Expt 6.xlsx,Sheet1!R8:AA8,xlsx,Recomputed with opposite count from the paired opposite-direction trip (the Nsb/Nnb labels in the sheet are swapped but values are used correctly)
+Group 5,Exp6,Stream speed v (km/h),SB-1,30.297,km/h,30.297,MATCH,Expt 6.xlsx,Sheet1!R8:AA8,xlsx,
+Group 5,Exp6,Density k (PCU/km),SB-1,53.723,PCU/km,53.723,MATCH,Expt 6.xlsx,Sheet1!R8:AA8,xlsx,
+Group 5,Exp6,Flow q (PCU/h),SB-2,2303.592,PCU/h,2303.592,MATCH,Expt 6.xlsx,Sheet1!R9:AA9,xlsx,Recomputed with opposite count from the paired opposite-direction trip (the Nsb/Nnb labels in the sheet are swapped but values are used correctly)
+Group 5,Exp6,Stream speed v (km/h),SB-2,39.309,km/h,39.309,MATCH,Expt 6.xlsx,Sheet1!R9:AA9,xlsx,
+Group 5,Exp6,Density k (PCU/km),SB-2,58.603,PCU/km,58.603,MATCH,Expt 6.xlsx,Sheet1!R9:AA9,xlsx,
+Group 5,Exp6,Average flow / speed / density,Lane 1,2000.01 / 42.01 / 47.57,PCU/h / km/h / PCU/km,,,Expt 6.xlsx,Sheet1!U19:W19,xlsx,
+Group 5,Exp6,Average flow / speed / density,Lane 2,1965.62 / 34.80 / 56.16,PCU/h / km/h / PCU/km,,,Expt 6.xlsx,Sheet1!U20:W20,xlsx,
+Group 12,Exp6,"Flow (as reported, ""veh/hr"")",Lap 1,1175.8427,PCU/h,1175.8427,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,Reproduces only as (opposite − overtaking + overtaken)/(2·t): sign of overtaking terms reversed vs theory eq.(9)
+Group 12,Exp6,Average speed (as reported),Lap 1,21.34831461,km/h,21.3483,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,"= L / test-vehicle lap time (test vehicle journey speed, not stream space-mean speed)"
+Group 12,Exp6,"Flow (as reported, ""veh/hr"")",Lap 2,2798.8304,PCU/h,2798.8304,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,Reproduces only as (opposite − overtaking + overtaken)/(2·t): sign of overtaking terms reversed vs theory eq.(9)
+Group 12,Exp6,Average speed (as reported),Lap 2,22.22222222,km/h,22.2222,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,"= L / test-vehicle lap time (test vehicle journey speed, not stream space-mean speed)"
+Group 12,Exp6,"Flow (as reported, ""veh/hr"")",Lap 3,933.00799,PCU/h,933.008,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,Reproduces only as (opposite − overtaking + overtaken)/(2·t): sign of overtaking terms reversed vs theory eq.(9)
+Group 12,Exp6,Average speed (as reported),Lap 3,10.11535049,km/h,10.1154,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,"= L / test-vehicle lap time (test vehicle journey speed, not stream space-mean speed)"
+Group 12,Exp6,"Flow (as reported, ""veh/hr"")",Lap 4,2705.4054,PCU/h,2705.4054,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,Reproduces only as (opposite − overtaking + overtaken)/(2·t): sign of overtaking terms reversed vs theory eq.(9)
+Group 12,Exp6,Average speed (as reported),Lap 4,25.67567568,km/h,25.6757,MATCH,CE323_EXP6.pdf,p.5 results,pdf table,"= L / test-vehicle lap time (test vehicle journey speed, not stream space-mean speed)"
+Group 12,Exp6,Average flow / travel time / speed,All laps,1903.2716 / 0.10908333 h / 19.84039075,,,,CE323_EXP6.pdf,p.5,pdf table,
+Group 5,Exp7,Critical volume Phase 1/2/3,,4696.5 / 198 / 418.5,PCU/h,,,Expt 7(Sheet1).csv,rows 36-38,csv,
+Group 5,Exp7,Saturation headway A/B/C,,0.53 / 1.18 / 2.92,s,,,Expt 7(Sheet1).csv,rows 26-28,csv,
+Group 5,Exp7,Sum V/S,,0.782191667,-,0.7822,MATCH,Expt 7(Sheet1).csv,row 39,csv,
+Group 5,Exp7,Optimum cycle C0,,65,s,64.2767,MISMATCH,Experiment 7.pdf,§6,pdf text,64.28 rounded to 65
+Group 5,Exp7,Actual green Phase 1/2/3,,54.15 / 4.2 / 6.6,s,,,Experiment 7.pdf,§6,pdf text,
+Group 12,Exp7,Movement PCU,Route 1 Straight,261,PCU,261.0,MATCH,CE323_EXP7 (1).pdf,p.2,pdf text,
+Group 12,Exp7,Movement PCU,Route 1 Right turn,41,PCU,41.0,MATCH,CE323_EXP7 (1).pdf,p.2,pdf text,
+Group 12,Exp7,Movement PCU,Route 2 Straight,317.5,PCU,317.5,MATCH,CE323_EXP7 (1).pdf,p.2,pdf text,
+Group 12,Exp7,Movement PCU,Route 2 Left turn,17,PCU,17.0,MATCH,CE323_EXP7 (1).pdf,p.2,pdf text,
+Group 12,Exp7,Movement PCU,Route 3 Right turn,8,PCU,8.0,MATCH,CE323_EXP7 (1).pdf,p.2,pdf text,
+Group 12,Exp7,Movement PCU,Route 3 Left turn,36,PCU,36.0,MATCH,CE323_EXP7 (1).pdf,p.2,pdf text,
+Group 12,Exp7,V/S Phase 1,,0.435,-,0.435,MATCH,CE323_EXP7 (1).pdf,p.3,pdf text,
+Group 12,Exp7,V/S Phase 2,,0.528,-,0.5292,MATCH,CE323_EXP7 (1).pdf,p.3,pdf text,
+Group 12,Exp7,V/S Phase 3,,0.06,-,0.06,MATCH,CE323_EXP7 (1).pdf,p.3,pdf text,
+Group 12,Exp7,Sum V/S (computed),,1.023,-,1.0242,MATCH,CE323_EXP7 (1).pdf,p.3,pdf text,
+Group 12,Exp7,Cycle length C0 (with ΣV/S forced to 0.9),,140,s,140.0,MATCH,CE323_EXP7 (1).pdf,p.3,pdf text,
+Group 12,Exp7,Green / amber / red Phase 1-3,,"58/2/80, 70/2/68, 8/2/130",s,,,CE323_EXP7 (1).pdf,p.4,pdf text,
+Group 5,Exp8,Parking volume (90 min),,114,veh,115.0,MISMATCH,Expt 8.xlsx,U4,xlsx,
+Group 5,Exp8,Average parking duration,,29.2719,min,29.2719,MATCH,Expt 8.xlsx,U6,xlsx,recomputed = mean of recorded durations
+Group 5,Exp8,Parking load,,60.6667,veh-h,60.6667,MATCH,Expt 8.xlsx,U3 / L12,xlsx,
+Group 5,Exp8,Average arrival rate,,54,veh/h,,,Expt 8.xlsx,U7,xlsx,
+Group 12,Exp8,Parking volume,,52,veh,49.0,MISMATCH,CE323_EXP8.pdf,p.5,pdf text,recomputed = distinct plate tokens in table
+Group 12,Exp8,Parking load,,3690,veh-min,3660.0,MISMATCH,CE323_EXP8.pdf,p.5,pdf text,
+Group 12,Exp8,Average duration (row-based),,70.38,min,70.3846,MATCH,CE323_EXP8.pdf,p.6,pdf text,
+Group 12,Exp8,Average duration cars,,91.42,min,86.4286,MISMATCH,CE323_EXP8.pdf,p.6,pdf text,
+Group 12,Exp8,Average duration bikes,,64.47,min,64.4737,MATCH,CE323_EXP8.pdf,p.6,pdf text,
+Group 12,Exp8,Parking index,,78.85,%,78.8462,MATCH,CE323_EXP8.pdf,p.5,pdf text,
+Group 12,Exp8,Arrival / departure rate,,10 / 10,veh/h,,,CE323_EXP8.pdf,p.7,pdf text,
+Group 12,Exp9,Total counted (EF numerator),Walk,33,trips,33.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,recomputed = sum of 15-min handwritten counts
+Group 12,Exp9,Interviewed,Walk,9,trips,9.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Expansion factor,Walk,3.67,-,3.6667,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Total counted (EF numerator),Cycle,137,trips,137.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,recomputed = sum of 15-min handwritten counts
+Group 12,Exp9,Interviewed,Cycle,18,trips,18.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Expansion factor,Cycle,7.61,-,7.6111,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Total counted (EF numerator),Two Wheeler,205,trips,205.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,recomputed = sum of 15-min handwritten counts
+Group 12,Exp9,Interviewed,Two Wheeler,20,trips,20.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Expansion factor,Two Wheeler,10.25,-,10.25,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Total counted (EF numerator),Car,60,trips,60.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,recomputed = sum of 15-min handwritten counts
+Group 12,Exp9,Interviewed,Car,6,trips,6.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 12,Exp9,Expansion factor,Car,10.0,-,10.0,MATCH,Experiment9_grp 12.pdf,p.2 §5.1,pdf text,
+Group 5,Exp9,Expansion factor,Car,1.5667,-,1.5667,MATCH,Expt 9.xlsx,Sheet1!S44:S47,xlsx,
+Group 5,Exp9,Interviewed,Car,30,trips,30.0,MATCH,Expt 9.xlsx,Sheet1!R44:R47,xlsx,
+Group 5,Exp9,Expansion factor,Two Wheeler,1.7222,-,1.7222,MATCH,Expt 9.xlsx,Sheet1!S44:S47,xlsx,
+Group 5,Exp9,Interviewed,Two Wheeler,18,trips,18.0,MATCH,Expt 9.xlsx,Sheet1!R44:R47,xlsx,
+Group 5,Exp9,Expansion factor,Cycle,1.7778,-,1.7778,MATCH,Expt 9.xlsx,Sheet1!S44:S47,xlsx,
+Group 5,Exp9,Interviewed,Cycle,9,trips,9.0,MATCH,Expt 9.xlsx,Sheet1!R44:R47,xlsx,
+Group 5,Exp9,Expansion factor,Walk,6,-,6.0,MATCH,Expt 9.xlsx,Sheet1!S44:S47,xlsx,
+Group 5,Exp9,Interviewed,Walk,2,trips,2.0,MATCH,Expt 9.xlsx,Sheet1!R44:R47,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Class,0,trips,0.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Office/work,12,trips,12.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Hostel return,1,trips,1.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Medical,1,trips,1.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Shopping,36,trips,36.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Visitor,2,trips,2.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp9,Trips by purpose (sample),Other,7,trips,7.0,MATCH,Expt 9.xlsx,Sheet1!D40:D46,xlsx,
+Group 5,Exp2,Total data entries,Instructor-provided trip,4961,-,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Valid observations (speed>0),Instructor-provided trip,3994,-,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed min,Instructor-provided trip,0.632,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed max,Instructor-provided trip,67.342,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed mean,Instructor-provided trip,55.51,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed p5 (labelled p15 in Results table),Instructor-provided trip,46.96,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed p50,Instructor-provided trip,58.77,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed p85,Instructor-provided trip,63.44,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed p95,Instructor-provided trip,65.6,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Speed SD,Instructor-provided trip,10.1322,km/h,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel min,Instructor-provided trip,0.01,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel max,Instructor-provided trip,0.95,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel mean,Instructor-provided trip,0.1604,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel p15,Instructor-provided trip,0.04,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel p25,Instructor-provided trip,0.06,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel p50,Instructor-provided trip,0.11,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel p85,Instructor-provided trip,0.25,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel p95,Instructor-provided trip,0.63,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Accel variance,Instructor-provided trip,0.02873,(m/s2)^2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel min,Instructor-provided trip,0.01,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel max,Instructor-provided trip,2.07,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel mean,Instructor-provided trip,0.3002,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel p15,Instructor-provided trip,0.04,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel p25,Instructor-provided trip,0.06,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel p50,Instructor-provided trip,0.17,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel p85,Instructor-provided trip,0.46,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel p95,Instructor-provided trip,1.266,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Decel variance,Instructor-provided trip,0.15465,(m/s2)^2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc min,Instructor-provided trip,-1.17,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc max,Instructor-provided trip,0.94,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc mean,Instructor-provided trip,0.0182,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc p15,Instructor-provided trip,-0.19,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc p25,Instructor-provided trip,-0.08,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc p50,Instructor-provided trip,0.0,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc p85,Instructor-provided trip,0.28,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc p95,Instructor-provided trip,0.48,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,LatAcc SD,Instructor-provided trip,0.2694,m/s2,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 5,Exp2,Best-fit speed distribution,Instructor-provided trip,Weibull (min chi-square),-,,,Transportation Lab 2 (1).docx,"Tables §5, §7",docx table,
+Group 12,Exp2,Speed p15,Instructor-provided trip,42.307,km/h,,,VBOX_Group12.pdf,p.2 A1,pdf text,
+Group 12,Exp2,Speed p25,Instructor-provided trip,46.86675,km/h,,,VBOX_Group12.pdf,p.2 A1,pdf text,
+Group 12,Exp2,Speed p50,Instructor-provided trip,53.7105,km/h,,,VBOX_Group12.pdf,p.2 A1,pdf text,
+Group 12,Exp2,Speed p85,Instructor-provided trip,59.2188,km/h,,,VBOX_Group12.pdf,p.2 A1,pdf text,
+Group 12,Exp2,Speed p95,Instructor-provided trip,60.8225,km/h,,,VBOX_Group12.pdf,p.2 A1,pdf text,
+Group 12,Exp2,Long. accel p15,,0.11,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. decel p15,,0.11,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Lateral accel p15,,0.11,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. accel p25,,0.18,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. decel p25,,0.18,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Lateral accel p25,,0.18,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. accel p50,,0.37,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. decel p50,,0.38,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Lateral accel p50,,0.38,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. accel p85,,0.82,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. decel p85,,0.87,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Lateral accel p85,,0.85,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. accel p95,,1.17,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Long. decel p95,,1.31,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,Lateral accel p95,,1.244,m/s2,,,VBOX_Group12.pdf,p.4 B1,pdf text,
+Group 12,Exp2,"KS-type fit statistic, speed (normal)",,4361.35,-,,,VBOX_Group12.pdf,p.3 A3,pdf text,Weibull lowest → best fit
+Group 12,Exp2,"KS-type fit statistic, speed (weibull)",,3146.912,-,,,VBOX_Group12.pdf,p.3 A3,pdf text,Weibull lowest → best fit
+Group 12,Exp2,"KS-type fit statistic, speed (lognormal)",,7538.9,-,,,VBOX_Group12.pdf,p.3 A3,pdf text,Weibull lowest → best fit
+Group 12,Exp2,Speed at max accel / decel,,≈25-30 / ≈25-30,km/h,,,VBOX_Group12.pdf,p.5 B4,pdf text,
+Group 12,Exp3,Vehicles / PCU in 0-2 min,Inner lane,32 / 50.1,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 2-4 min,Inner lane,17 / 30.3,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 4-6 min,Inner lane,18 / 36.7,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 6-8 min,Inner lane,20 / 44.0,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 8-10 min,Inner lane,19 / 37.6,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 0-2 min,Outer lane,28 / 38.7,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 2-4 min,Outer lane,29 / 32.3,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 4-6 min,Outer lane,25 / 17.7,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 6-8 min,Outer lane,29 / 32.4,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 8-10 min,Outer lane,30 / 40.8,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 0-2 min,Combined lane,60 / 88.8,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 2-4 min,Combined lane,46 / 62.6,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 4-6 min,Combined lane,43 / 54.4,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 6-8 min,Combined lane,49 / 76.4,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Vehicles / PCU in 8-10 min,Combined lane,49 / 78.4,veh / PCU,,,exp 3.pdf,p.2 Part A tables,pdf text,
+Group 12,Exp3,Total vehicles 10 min,Inner lane,106,veh,,,exp 3.pdf,p.2 (sum of table),derived from pdf text,
+Group 12,Exp3,Total vehicles 10 min,Outer lane,141,veh,,,exp 3.pdf,p.2 (sum of table),derived from pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,Auto,24.41 / 24.59 / 27.67,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,Bus,36.68 / 32.67 / 44.72,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,Car,41.88 / 41.53 / 48.62,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,LCV,39.19 / 37.93 / 47.9,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,Multi Axle,23.89 / 22.62 / 27.69,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,Truck,35.35 / 35.3 / 41.34,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Free-flow speed avg / p50 / p85,Two Wheeler,45.04 / 40.51 / 47.81,km/h,,,exp 3.pdf,p.4 table,pdf text,
+Group 12,Exp3,Stream speed avg / p85 / median,Car,41.88 / 48.62 / 41.53,km/h,,,exp 3.pdf,p.5 table,pdf text,
+Group 12,Exp3,Stream speed avg / p85 / median,Truck,35.35 / 41.34 / 35.3,km/h,,,exp 3.pdf,p.5 table,pdf text,
+Group 12,Exp3,Stream speed avg / p85 / median,LCV,39.19 / 47.9 / 37.93,km/h,,,exp 3.pdf,p.5 table,pdf text,
+Group 12,Exp3,Stream speed avg / p85 / median,Two Wheeler,45.04 / 47.81 / 40.51,km/h,,,exp 3.pdf,p.5 table,pdf text,
+Group 12,Exp3,Normality test (all FFS),,"mean 40.71, SD 18.71, dof 10, crit 18.31, chi2 not given → reject",,,,exp 3.pdf,p.4,pdf text,
+Group 12,Exp3,Peak observed flow,,~2600,PCU/h,,,exp 3.pdf,p.5 comments,pdf text,
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 2 Truck,1.840490798,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 3/163 exactly → implied count 3
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 2 LCV,4.294478528,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 7/163 exactly → implied count 7
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 2 Bus,7.36196319,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 12/163 exactly → implied count 12
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 2 Car,23.92638037,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 39/163 exactly → implied count 39
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 2 Auto,17.17791411,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 28/163 exactly → implied count 28
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 2 Two Wheeler,45.39877301,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 74/163 exactly → implied count 74
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 1 Truck,9.836065574,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 12/122 exactly → implied count 12
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 1 LCV,18.03278689,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 22/122 exactly → implied count 22
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 1 Bus,5.737704918,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 7/122 exactly → implied count 7
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 1 Car,56.55737705,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 69/122 exactly → implied count 69
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 1 Auto,0.819672131,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 1/122 exactly → implied count 1
+Individual (Ayush Kumar),Exp3,Traffic composition share,Lane 1 Two Wheeler,9.016393443,%,,,Mid-block Traffic Volume and Speed Study by Video.pdf,p.6 pie-chart labels,image (read at 200 dpi),= 11/122 exactly → implied count 11

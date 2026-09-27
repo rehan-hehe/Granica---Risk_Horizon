@@ -1,0 +1,4 @@
+model,n_terms,auc_train,auc_test,logloss_test,note
+B2-base logistic (v1 terms),13,0.5814,0.5619,0.5335,"fit on 2023-24 crashes, judged on 2025-26"
+B2-eng logistic (+engineered context),25,0.5991,0.5709,0.5337,"fit on 2023-24 crashes, judged on 2025-26"
+B2-trees boosted classifier (same inputs),27,0.6422,0.5732,0.5322,"fit on 2023-24 crashes, judged on 2025-26"

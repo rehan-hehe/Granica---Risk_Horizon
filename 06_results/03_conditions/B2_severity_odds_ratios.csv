@@ -1,16 +1,27 @@
 term,odds_ratio_2023_24,ci95_low,ci95_high,p_value,odds_ratio_2025_26_refit
-Intercept,0.2028,0.168,0.2447,0.0,0.1222
-"C(light, Treatment('daylight'))[T.twilight]",1.2235,1.0392,1.4406,0.0155,1.3703
-"C(light, Treatment('daylight'))[T.dark]",1.4262,1.271,1.6004,0.0,1.2726
-"C(lighting, Treatment('bright_urban'))[T.lit_town]",0.9611,0.8017,1.1522,0.668,1.4783
-"C(lighting, Treatment('bright_urban'))[T.dim]",1.3018,1.086,1.5605,0.0043,2.3104
-"C(lighting, Treatment('bright_urban'))[T.dark_rural]",1.5923,1.2104,2.0947,0.0009,3.6142
-"C(lighting, Treatment('bright_urban'))[T.unknown]",1.4495,1.2005,1.75,0.0001,3.1773
-"C(road, Treatment('minor_or_unknown'))[T.national_highway]",0.9412,0.8696,1.0187,0.1334,0.8901
-"C(road, Treatment('minor_or_unknown'))[T.other_main]",0.878,0.8034,0.9595,0.0041,0.8819
-C(season)[T.post-monsoon],1.3565,1.2374,1.4872,0.0,1.1559
-C(season)[T.pre-monsoon],1.4005,1.2882,1.5225,0.0,1.0386
-C(season)[T.winter],1.5953,1.4554,1.7487,0.0,1.0599
-dark_unlit,0.9758,0.8519,1.1178,0.7242,0.9971
-rain,0.9684,0.8747,1.0721,0.5362,0.9419
-fog,0.8342,0.7256,0.9592,0.0109,0.9186
+Intercept,0.8761,0.5474,1.4022,0.5816,0.4366
+"C(light, Treatment('daylight'))[T.twilight]",1.1803,0.974,1.4304,0.0908,1.2152
+"C(light, Treatment('daylight'))[T.dark]",1.3855,1.1914,1.6112,0.0,1.1489
+"C(lighting, Treatment('bright_urban'))[T.lit_town]",0.7794,0.6239,0.9738,0.0282,0.981
+"C(lighting, Treatment('bright_urban'))[T.dim]",0.8318,0.6371,1.0858,0.1756,1.0554
+"C(lighting, Treatment('bright_urban'))[T.dark_rural]",0.865,0.6064,1.234,0.4237,1.4027
+"C(lighting, Treatment('bright_urban'))[T.unknown]",0.9451,0.6845,1.3048,0.7313,1.4491
+"C(road, Treatment('minor_or_unknown'))[T.national_highway]",0.9318,0.7259,1.1962,0.5796,0.8953
+"C(road, Treatment('minor_or_unknown'))[T.other_main]",0.9284,0.7765,1.1099,0.4146,0.89
+C(season)[T.post-monsoon],1.3535,1.2333,1.4853,0.0,1.1763
+C(season)[T.pre-monsoon],1.3943,1.2821,1.5164,0.0,1.0409
+C(season)[T.winter],1.5889,1.448,1.7435,0.0,1.0692
+"C(time_band, Treatment('day'))[T.evening]",1.0072,0.8666,1.1708,0.9251,1.176
+"C(time_band, Treatment('day'))[T.late_night]",1.0418,0.8733,1.2427,0.6494,1.0559
+"C(time_band, Treatment('day'))[T.early_morning]",1.2445,1.0707,1.4465,0.0044,1.1437
+rain,0.9728,0.8783,1.0775,0.5969,0.9419
+fog,0.7969,0.6891,0.9216,0.0022,0.951
+weekend,1.0229,0.9565,1.0939,0.509,0.9609
+hw_rank,0.9893,0.9297,1.0527,0.7342,1.0108
+turn_contrast,1.0002,0.9999,1.0005,0.2934,1.0
+junctions_per_km,0.9769,0.9686,0.9852,0.0,0.9852
+log_poi_500m,0.8998,0.8522,0.95,0.0001,0.9069
+log_dist_town,0.8938,0.854,0.9354,0.0,1.0091
+light_contrast,0.7297,0.629,0.8467,0.0,0.7084
+log_road_km_5km,0.8894,0.8374,0.9446,0.0001,0.9014
+is_divided,1.0516,0.9544,1.1586,0.3093,0.9112

@@ -178,7 +178,7 @@ Live TomTom speed ────────────────────�
 |---|---|---|---|
 | A (static risk) | **246,789 segments** (81,169 km, ≤500 m each) | KSI crashes on the segment in the training window | **33 features** for trees; 25 terms for the SPF (§7.3) |
 | B1 (likelihood) | **193,904 place-hours** = 44,112 crashes + 149,792 controls | crash hour vs control hour, within each crash's set | rain, heavy rain, rain in last 4 h, fog-likely, rain × main road |
-| B2 (severity) | 44,112 crashes (21,108 train / 23,004 test) | fatal vs non-fatal | light (computed), lighting class (VIIRS), road class, rain, fog, season |
+| B2 (severity) | 44,112 crashes (21,108 train / 23,004 test) | fatal vs non-fatal | light (computed), lighting class (VIIRS), road class, rain, fog, season, time of day, weekend, road context (bends, junctions, pedestrian places, distance to town, light contrast) |
 | C (signal) | 246,789 segments × {day, twilight, dark, rain} | — | A score × B multipliers → band |
 
 ### 7.3 Exact model input (Stage A)
@@ -284,11 +284,11 @@ Scores are always **out-of-fold over 5 spatial folds (0.2° blocks)**, so no seg
   - Fog-likely has no clear effect (0.977, 0.927–1.030). Rain × main road also shows none.
   - This most likely reflects **fewer trips and slower driving in rain** (exposure).
   - **Signal rule:** conditions never lower a warning, so rain and fog get a multiplier of 1.0.
-- **Darkness makes crashes deadlier:** fatal odds × **1.43** (1.27–1.60). Twilight: × 1.22 (1.04–1.44).
-  - Dim and dark-rural roads are deadlier at any hour: × 1.30 and × 1.59 vs bright urban.
-  - Darkness × unlit shows no extra effect (0.98), so the dark effect is similar everywhere.
-  - Dark multipliers used in the signal: 1.21 (dark rural) to 1.28 (bright urban).
-  - The severity model separates single crashes only weakly (AUC 0.56 on 2025–26), so it is used only for **average multipliers**, not per-crash predictions.
+- **Darkness makes crashes deadlier:** fatal odds × **1.39** (1.19–1.61), holding time of day, road type, weather and season fixed. Twilight: × 1.18 (0.97–1.43, not significant).
+  - Early morning (4–7 am) adds × 1.24 (1.07–1.45). A lit strip inside a dark area lowers fatal odds (× 0.73 per unit of light contrast).
+  - Once road context is included, the street-lighting class adds no significant effect, so the dark effect is similar everywhere.
+  - Dark multipliers used in the signal: 1.17 to 1.19 across lighting classes.
+  - The severity model separates single crashes only weakly (AUC 0.571 on 2025–26; boosted trees reach only 0.573, so the interpretable logistic model is kept), so it is used only for **average multipliers**, not per-crash predictions.
 
 ## 9. The signal given to the car
 
@@ -305,7 +305,7 @@ Scores are always **out-of-fold over 5 spatial folds (0.2° blocks)**, so no seg
 - `static_band`, `twilight_band`, `dark_band`, `rain_band`
 - `main_reasons` (from the SPF), `ped_flag`, `confidence`
 
-**Behaviour after dark:** darkness raises the share of road in band 2 or higher from 5.0% to 6.0%.
+**Behaviour after dark:** darkness raises the share of road in band 2 or higher from 5.0% to 5.9%.
 
 **Live layer:** TomTom speed ratios decide *when* to warn. Examples: fast free-flow into band 3, or a sudden slowdown ahead of band 2+.
 
@@ -323,7 +323,7 @@ Scores are always **out-of-fold over 5 spatial folds (0.2° blocks)**, so no seg
 - **ERA5 weather is a 25 km estimate.** Airport observations exist only for Guwahati so far.
 - **OSM is thin** on lanes, speed limits and speed breakers.
 - **Night light is a proxy** for street lighting, not an inventory of lamps.
-- **Severity is hard to predict** for single crashes (AUC 0.56).
+- **Severity is hard to predict** for single crashes (AUC 0.57).
 - **Live traffic covers one corridor** and started on 26 Sep 2026. It is a working demo, not a statewide feed.
 - **Known open item:** the v2 SPF (25 terms) showed a convergence warning. The driver-facing "reasons" should use the stable v1 SPF (14 terms) until the SPF term set is re-selected. The signal table in `RiskHorizon_Dataset` is currently generated from v1 scores; `run_all` regenerates it.
 

@@ -20,7 +20,7 @@
 | [`02_data/`](02_data) | All collected data as CSV (public layers, live traffic, CE323 field counts), schema and catalog | Anyone can load and inspect the evidence |
 | [`03_eda/`](03_eda) | Crash EDA, region selection, public-data summaries, condition analysis, data-quality proofs | What we learned and which problems we found |
 | [`04_model_inputs/`](04_model_inputs) | Code that turns raw data into model tables; the segment table (246,789 rows); feature dictionary | Exactly what the model sees |
-| [`05_model/`](05_model) | Feature study, final model (A + B), v1 full signal pipeline, prototype | How the model is built and why this split |
+| [`05_model/`](05_model) | Final pipeline (feature study → WHERE → WHEN → signal bands) and `run_pipeline.ipynb` | How the model is built and why this split |
 | [`06_results/`](06_results) | Held-out test results, bootstrap CIs, feature catalog, condition effects, signal bands, figures | What the results mean |
 
 ## Pipeline
@@ -37,7 +37,7 @@ police PDFs ─▶ irad_to_excel.py ─▶ crash tables ─▶ EDA ─▶ build_
 
 ```bash
 pip install -r requirements.txt
-python 05_model/v2_final/02_static_risk.py <dataset_root>   # see 05_model/README.md for folder layout
+jupyter notebook 05_model/run_pipeline.ipynb   # runs every step; see 05_model/README.md for the folder layout
 ```
 Keys (TomTom, NASA Earthdata) are typed at run time and never stored.
 

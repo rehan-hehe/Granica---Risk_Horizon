@@ -1,0 +1,32 @@
+{
+ "chosen_model": "B2-eng logistic (+engineered context)",
+ "comparison": [
+  {
+   "model": "B2-base logistic (v1 terms)",
+   "n_terms": 13,
+   "auc_train": 0.5814,
+   "auc_test": 0.5619,
+   "logloss_test": 0.5335,
+   "note": "fit on 2023-24 crashes, judged on 2025-26"
+  },
+  {
+   "model": "B2-eng logistic (+engineered context)",
+   "n_terms": 25,
+   "auc_train": 0.5991,
+   "auc_test": 0.5709,
+   "logloss_test": 0.5337,
+   "note": "fit on 2023-24 crashes, judged on 2025-26"
+  },
+  {
+   "model": "B2-trees boosted classifier (same inputs)",
+   "n_terms": 27,
+   "auc_train": 0.6422,
+   "auc_test": 0.5732,
+   "logloss_test": 0.5322,
+   "note": "fit on 2023-24 crashes, judged on 2025-26"
+  }
+ ],
+ "severity_crashes_train": 21108,
+ "severity_crashes_test": 23004,
+ "runtime_s": 13
+}
