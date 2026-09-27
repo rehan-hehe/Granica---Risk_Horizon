@@ -1,0 +1,26 @@
+{
+ "rows": {
+  "accidents": 44114,
+  "vehicles": 56185,
+  "road_details": 5730
+ },
+ "pii_cells_blanked": {
+  "vehicles.vahan_vehicle_category.plate": 1,
+  "vehicles.vehicle_class.plate": 1,
+  "vehicles.body_type.phone": 1,
+  "vehicles.make.plate": 4,
+  "road_details.road_number.plate": 68,
+  "vehicles.vahan_vehicle_category (id/code)": 4,
+  "vehicles.vehicle_class (id/code)": 12,
+  "vehicles.body_type (id/code)": 1,
+  "vehicles.emission_norms (id/code)": 2,
+  "vehicles.make (id/code)": 18,
+  "vehicles.make.code_like (id/code)": 31,
+  "vehicles.body_type.code_like (id/code)": 3
+ },
+ "window": [
+  "2023-01-01",
+  "2026-05-31"
+ ],
+ "crashes_without_date": 1
+}

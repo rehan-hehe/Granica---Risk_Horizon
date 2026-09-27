@@ -1,0 +1,112 @@
+file,column,dtype,non_null,description
+accidents_clean.csv,release_id,object,44114,Random id per crash; links the three files. Not the police accident id.
+accidents_clean.csv,accident_date,object,44113,Crash date (time kept only as accident_hour).
+accidents_clean.csv,accident_year,float64,44113,
+accidents_clean.csv,accident_month,float64,44113,
+accidents_clean.csv,accident_weekday,object,44113,
+accidents_clean.csv,accident_hour,float64,44113,
+accidents_clean.csv,district_name,object,44113,[Header] District Name
+accidents_clean.csv,latitude_3dp,float64,44114,Police geotag rounded to 3 decimals (~110 m).
+accidents_clean.csv,longitude_3dp,float64,44114,Police geotag rounded to 3 decimals (~110 m).
+accidents_clean.csv,severity,object,44113,[Accident Details] Severity
+accidents_clean.csv,road_classification,object,38595,[Accident Details] Road Classification
+accidents_clean.csv,local_body,object,38592,[Accident Details] Local Body
+accidents_clean.csv,accident_spot,object,38602,[Accident Details] Accident Spot
+accidents_clean.csv,collision_type,object,38606,[Accident Details] Collision Type
+accidents_clean.csv,collision_nature,object,37289,[Accident Details] Collision Nature
+accidents_clean.csv,weather_condition,object,38599,[Accident Details] Weather Condition
+accidents_clean.csv,light_condition,object,38593,[Accident Details] Light Condition
+accidents_clean.csv,visibility_m,float64,38589,Number parsed from visibility_raw ('50 meters' -> 50)
+accidents_clean.csv,initial_observation,object,38546,[Accident Details] Initial Observation of Accident Scene
+accidents_clean.csv,traffic_violation,object,37344,[Accident Details] Traffic Violation
+accidents_clean.csv,act,object,27736,[Header] Act
+accidents_clean.csv,num_vehicles_declared_int,float64,44113,
+accidents_clean.csv,reporting_delay_hours,float64,44113,"reporting_datetime - accident_datetime, in hours"
+accidents_clean.csv,property_damage_reported,bool,44114,True if the report lists property damage (free text removed).
+accidents_clean.csv,killed_driver,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,grievous_driver,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,minor_driver,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,no_injury_driver,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,total_driver,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,killed_passenger,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,grievous_passenger,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,minor_passenger,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,no_injury_passenger,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,total_passenger,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,killed_pedestrian,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,grievous_pedestrian,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,minor_pedestrian,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,no_injury_pedestrian,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,total_pedestrian,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,killed_total,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,grievous_total,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,minor_total,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,no_injury_total,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,total_total,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,animals_total,int64,44114,[Accident Details] Number of persons table: category_roleof person; blank cell = 0
+accidents_clean.csv,n_vehicle_records,int64,44114,
+accidents_clean.csv,n_driver_records,int64,44114,
+accidents_clean.csv,n_passenger_records,int64,44114,
+accidents_clean.csv,n_pedestrian_records,int64,44114,
+accidents_clean.csv,n_witness_records,int64,44114,
+accidents_clean.csv,n_transport_inspections,int64,44114,
+accidents_clean.csv,has_road_details,bool,44114,
+accidents_clean.csv,has_hospital_details,bool,44114,
+accidents_clean.csv,sections_present,object,44114,
+vehicles_clean.csv,release_id,object,56185,Random id per crash; links the three files. Not the police accident id.
+vehicles_clean.csv,record_seq,int64,56185,Order of this record within its accident report
+vehicles_clean.csv,accused_victim,object,55943,[Vehicle Details] Accused / Victim
+vehicles_clean.csv,vehicle_category,object,55965,[Vehicle Details] Vehicle Category
+vehicles_clean.csv,vahan_vehicle_category,object,46913,[Vehicle Details] Vahan Vehicle Category
+vehicles_clean.csv,vehicle_type,object,56076,[Vehicle Details] Vehicle Type
+vehicles_clean.csv,vehicle_class,object,49349,[Vehicle Details] Vehicle Class
+vehicles_clean.csv,body_type,object,46601,[Vehicle Details] Vehicle Body Type Description
+vehicles_clean.csv,fuel_type,object,46900,[Vehicle Details] Fuel Type
+vehicles_clean.csv,emission_norms,object,46868,[Vehicle Details] Norms Description
+vehicles_clean.csv,make,object,52713,"Manufacturer only; model, colour and registration removed."
+vehicles_clean.csv,vehicle_age_years,float64,35502,Crash year minus manufacture year.
+vehicles_clean.csv,hit_and_run,object,55052,[Vehicle Details] Hit & Run
+vehicles_clean.csv,disposition,object,53148,[Vehicle Details] Disposition
+vehicles_clean.csv,vehicle_damage,object,53493,[Vehicle Details] Vehicle Damage
+vehicles_clean.csv,load_category,object,54944,[Vehicle Details] Load Category
+vehicles_clean.csv,load_condition,object,54844,[Vehicle Details] Load Condition
+vehicles_clean.csv,skid_mark,object,44025,[Vehicle Details] Skid Mark
+vehicles_clean.csv,insurance_valid_on_crash_date,object,47609,yes/no: the document was valid on the crash date (VAHAN snapshot; may reflect current status).
+vehicles_clean.csv,puc_valid_on_crash_date,object,39858,yes/no: the document was valid on the crash date (VAHAN snapshot; may reflect current status).
+vehicles_clean.csv,fitness_valid_on_crash_date,object,39289,yes/no: the document was valid on the crash date (VAHAN snapshot; may reflect current status).
+vehicles_clean.csv,tax_valid_on_crash_date,object,46549,yes/no: the document was valid on the crash date (VAHAN snapshot; may reflect current status).
+vehicles_clean.csv,gvw_kg,float64,46827,[Vehicle Details] Vehicle Laden Weight(GVW)
+vehicles_clean.csv,unladen_weight_kg,float64,46832,[Vehicle Details] Vehicle Un-Laden Weight
+vehicles_clean.csv,num_cylinders,float64,46816,[Vehicle Details] Number of Cylinder
+vehicles_clean.csv,cubic_capacity_cc,float64,46139,[Vehicle Details] Vehicle Cubic Capacity
+vehicles_clean.csv,seating_capacity,float64,46597,[Vehicle Details] Seating Capacity
+vehicles_clean.csv,standing_capacity,float64,45037,[Vehicle Details] Standing Capacity
+vehicles_clean.csv,wheelbase_mm,float64,44218,[Vehicle Details] Wheelbase
+road_details_clean.csv,release_id,object,5730,Random id per crash; links the three files. Not the police accident id.
+road_details_clean.csv,record_seq,int64,5730,Order of this record within its accident report
+road_details_clean.csv,area_type,object,5730,[Road Details] Area Type
+road_details_clean.csv,road_classification,object,5730,[Road Details] Road Classification
+road_details_clean.csv,road_owning_agency,object,5730,[Road Details] Road Owning Agency
+road_details_clean.csv,road_number,object,5126,[Road Details] Road Number
+road_details_clean.csv,structure_type,object,5730,[Road Details] Type of Structure
+road_details_clean.csv,road_surface_type,object,5730,[Road Details] Type of Road Surface
+road_details_clean.csv,surface_condition,object,5730,[Road Details] Surface Condition
+road_details_clean.csv,carriageway_type,object,5730,[Road Details] Type of Carriageway
+road_details_clean.csv,road_width_m,float64,5711,[Road Details] Road Width (in metre)
+road_details_clean.csv,accident_location_geometry,object,5730,[Road Details] Accident Location
+road_details_clean.csv,sight_distance,object,5730,[Road Details] Sight Distance
+road_details_clean.csv,speed_limit_kmph,string,0,[Road Details] Speed Limit (in kmph)
+road_details_clean.csv,road_margins,object,5730,[Road Details] Road Margins
+road_details_clean.csv,shoulder_type,object,4412,[Road Details] Road Shoulder Type
+road_details_clean.csv,terrain_type,object,5730,[Road Details] Type of Terrain
+road_details_clean.csv,gradient_type,object,5730,[Road Details] Type of Surface Gradient
+road_details_clean.csv,divider_barrier_type,object,5730,[Road Details] Physical Divider / Barrier Type
+road_details_clean.csv,median_type,object,5727,[Road Details] Type of Median
+road_details_clean.csv,pedestrian_infrastructure,object,5730,[Road Details] Pedestrian Infrastructure
+road_details_clean.csv,pedestrian_infrastructure_quality,object,2289,[Road Details] Quality of Pedestrian Infrastructure
+road_details_clean.csv,ongoing_road_work,object,5730,[Road Details] Ongoing Road Work
+road_details_clean.csv,road_markings,object,5730,[Road Details] Road Markings
+road_details_clean.csv,road_sign_board,object,5730,[Road Details] Road Sign Board
+road_details_clean.csv,contributing_factors,object,5730,[Road Details] Contributing Factors of Road Accident
+road_details_clean.csv,short_term_remedial_measures,object,962,[Road Details] Short-Term Remedial Measures
+road_details_clean.csv,long_term_remedial_measures,object,714,[Road Details] Long-Term Remedial Measures
