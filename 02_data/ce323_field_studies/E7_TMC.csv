@@ -1,0 +1,217 @@
+group,experiment,site,approach,interval_min,movement,vehicle_class,count,pcu_reported,pcu_recomputed,source_file,source_location,extraction_method
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Through,Car,39,39.0,39.0,Expt 7(Sheet1).csv,"row 3, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Left,Car,3,3.0,3.0,Expt 7(Sheet1).csv,"row 3, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Through,Car,22,22.0,22.0,Expt 7(Sheet1).csv,"row 3, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Right,Car,10,10.0,10.0,Expt 7(Sheet1).csv,"row 3, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Left,Car,5,5.0,5.0,Expt 7(Sheet1).csv,"row 3, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Right,Car,1,1.0,1.0,Expt 7(Sheet1).csv,"row 3, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Through,Car,47,47.0,47.0,Expt 7(Sheet1).csv,"row 4, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Left,Car,0,0.0,0.0,Expt 7(Sheet1).csv,"row 4, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Through,Car,31,31.0,31.0,Expt 7(Sheet1).csv,"row 4, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Right,Car,13,13.0,13.0,Expt 7(Sheet1).csv,"row 4, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Left,Car,4,4.0,4.0,Expt 7(Sheet1).csv,"row 4, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Right,Car,3,3.0,3.0,Expt 7(Sheet1).csv,"row 4, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Through,Car,34,34.0,34.0,Expt 7(Sheet1).csv,"row 5, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Left,Car,1,1.0,1.0,Expt 7(Sheet1).csv,"row 5, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Through,Car,29,29.0,29.0,Expt 7(Sheet1).csv,"row 5, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Right,Car,15,15.0,15.0,Expt 7(Sheet1).csv,"row 5, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Left,Car,4,4.0,4.0,Expt 7(Sheet1).csv,"row 5, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Right,Car,4,4.0,4.0,Expt 7(Sheet1).csv,"row 5, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Through,Car,35,35.0,35.0,Expt 7(Sheet1).csv,"row 6, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Left,Car,1,1.0,1.0,Expt 7(Sheet1).csv,"row 6, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Through,Car,30,30.0,30.0,Expt 7(Sheet1).csv,"row 6, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Right,Car,10,10.0,10.0,Expt 7(Sheet1).csv,"row 6, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Left,Car,5,5.0,5.0,Expt 7(Sheet1).csv,"row 6, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Right,Car,1,1.0,1.0,Expt 7(Sheet1).csv,"row 6, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Through,Car,41,41.0,41.0,Expt 7(Sheet1).csv,"row 7, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Left,Car,0,0.0,0.0,Expt 7(Sheet1).csv,"row 7, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Through,Car,46,46.0,46.0,Expt 7(Sheet1).csv,"row 7, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Right,Car,13,13.0,13.0,Expt 7(Sheet1).csv,"row 7, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Left,Car,9,9.0,9.0,Expt 7(Sheet1).csv,"row 7, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Right,Car,0,0.0,0.0,Expt 7(Sheet1).csv,"row 7, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Through,Bus,2,7.0,7.0,Expt 7(Sheet1).csv,"row 8, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 8, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Through,Bus,4,14.0,14.0,Expt 7(Sheet1).csv,"row 8, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Right,Bus,1,3.5,3.5,Expt 7(Sheet1).csv,"row 8, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Left,Bus,1,3.5,3.5,Expt 7(Sheet1).csv,"row 8, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Right,Bus,1,3.5,3.5,Expt 7(Sheet1).csv,"row 8, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Through,Bus,3,10.5,10.5,Expt 7(Sheet1).csv,"row 9, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 9, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Through,Bus,6,21.0,21.0,Expt 7(Sheet1).csv,"row 9, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 9, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 9, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 9, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Through,Bus,7,24.5,24.5,Expt 7(Sheet1).csv,"row 10, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 10, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Through,Bus,3,10.5,10.5,Expt 7(Sheet1).csv,"row 10, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 10, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 10, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 10, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Through,Bus,1,3.5,3.5,Expt 7(Sheet1).csv,"row 11, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 11, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Through,Bus,2,7.0,7.0,Expt 7(Sheet1).csv,"row 11, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 11, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 11, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 11, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Through,Bus,4,14.0,14.0,Expt 7(Sheet1).csv,"row 12, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 12, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Through,Bus,5,17.5,17.5,Expt 7(Sheet1).csv,"row 12, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 12, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Left,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 12, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Right,Bus,0,0.0,0.0,Expt 7(Sheet1).csv,"row 12, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Through,Two Wheeler,38,19.0,19.0,Expt 7(Sheet1).csv,"row 13, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Left,Two Wheeler,4,2.0,2.0,Expt 7(Sheet1).csv,"row 13, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Through,Two Wheeler,23,11.5,11.5,Expt 7(Sheet1).csv,"row 13, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Right,Two Wheeler,6,3.0,3.0,Expt 7(Sheet1).csv,"row 13, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Left,Two Wheeler,11,5.5,5.5,Expt 7(Sheet1).csv,"row 13, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Right,Two Wheeler,1,0.5,0.5,Expt 7(Sheet1).csv,"row 13, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Through,Two Wheeler,35,17.5,17.5,Expt 7(Sheet1).csv,"row 14, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Left,Two Wheeler,4,2.0,2.0,Expt 7(Sheet1).csv,"row 14, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Through,Two Wheeler,29,14.5,14.5,Expt 7(Sheet1).csv,"row 14, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Right,Two Wheeler,13,6.5,6.5,Expt 7(Sheet1).csv,"row 14, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Left,Two Wheeler,2,1.0,1.0,Expt 7(Sheet1).csv,"row 14, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Right,Two Wheeler,2,1.0,1.0,Expt 7(Sheet1).csv,"row 14, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Through,Two Wheeler,34,17.0,17.0,Expt 7(Sheet1).csv,"row 15, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Left,Two Wheeler,2,1.0,1.0,Expt 7(Sheet1).csv,"row 15, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Through,Two Wheeler,29,14.5,14.5,Expt 7(Sheet1).csv,"row 15, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Right,Two Wheeler,8,4.0,4.0,Expt 7(Sheet1).csv,"row 15, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Left,Two Wheeler,2,1.0,1.0,Expt 7(Sheet1).csv,"row 15, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Right,Two Wheeler,2,1.0,1.0,Expt 7(Sheet1).csv,"row 15, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Through,Two Wheeler,29,14.5,14.5,Expt 7(Sheet1).csv,"row 16, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Left,Two Wheeler,1,0.5,0.5,Expt 7(Sheet1).csv,"row 16, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Through,Two Wheeler,35,17.5,17.5,Expt 7(Sheet1).csv,"row 16, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Right,Two Wheeler,5,2.5,2.5,Expt 7(Sheet1).csv,"row 16, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Left,Two Wheeler,7,3.5,3.5,Expt 7(Sheet1).csv,"row 16, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Right,Two Wheeler,3,1.5,1.5,Expt 7(Sheet1).csv,"row 16, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Through,Two Wheeler,44,22.0,22.0,Expt 7(Sheet1).csv,"row 17, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Left,Two Wheeler,0,0.0,0.0,Expt 7(Sheet1).csv,"row 17, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Through,Two Wheeler,42,21.0,21.0,Expt 7(Sheet1).csv,"row 17, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Right,Two Wheeler,10,5.0,5.0,Expt 7(Sheet1).csv,"row 17, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Left,Two Wheeler,16,8.0,8.0,Expt 7(Sheet1).csv,"row 17, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Right,Two Wheeler,2,1.0,1.0,Expt 7(Sheet1).csv,"row 17, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Through,LCV,17,37.4,37.400000000000006,Expt 7(Sheet1).csv,"row 18, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Left,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 18, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Through,LCV,6,13.2,13.200000000000001,Expt 7(Sheet1).csv,"row 18, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Right,LCV,4,8.8,8.8,Expt 7(Sheet1).csv,"row 18, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Left,LCV,6,13.2,13.200000000000001,Expt 7(Sheet1).csv,"row 18, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 18, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Through,LCV,14,30.8,30.800000000000004,Expt 7(Sheet1).csv,"row 19, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Left,LCV,2,4.4,4.4,Expt 7(Sheet1).csv,"row 19, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Through,LCV,6,13.2,13.200000000000001,Expt 7(Sheet1).csv,"row 19, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Right,LCV,2,4.4,4.4,Expt 7(Sheet1).csv,"row 19, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Left,LCV,3,6.6,6.6000000000000005,Expt 7(Sheet1).csv,"row 19, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 19, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Through,LCV,14,30.8,30.800000000000004,Expt 7(Sheet1).csv,"row 20, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Left,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 20, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Through,LCV,18,39.6,39.6,Expt 7(Sheet1).csv,"row 20, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 20, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Left,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 20, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 20, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Through,LCV,13,28.6,28.6,Expt 7(Sheet1).csv,"row 21, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Left,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 21, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Through,LCV,9,19.8,19.8,Expt 7(Sheet1).csv,"row 21, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 21, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Left,LCV,4,8.8,8.8,Expt 7(Sheet1).csv,"row 21, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 21, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Through,LCV,13,28.6,28.6,Expt 7(Sheet1).csv,"row 22, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Left,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 22, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Through,LCV,10,22.0,22.0,Expt 7(Sheet1).csv,"row 22, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Right,LCV,1,2.2,2.2,Expt 7(Sheet1).csv,"row 22, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Left,LCV,0,0.0,0.0,Expt 7(Sheet1).csv,"row 22, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Right,LCV,0,0.0,0.0,Expt 7(Sheet1).csv,"row 22, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Through,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 23, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Left,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 23, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Through,Auto,6,12.0,12.0,Expt 7(Sheet1).csv,"row 23, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Right,Auto,1,2.0,2.0,Expt 7(Sheet1).csv,"row 23, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Left,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 23, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Right,Auto,3,6.0,6.0,Expt 7(Sheet1).csv,"row 23, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Through,Auto,4,8.0,8.0,Expt 7(Sheet1).csv,"row 24, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Left,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 24, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Through,Auto,1,2.0,2.0,Expt 7(Sheet1).csv,"row 24, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Right,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 24, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Left,Auto,1,2.0,2.0,Expt 7(Sheet1).csv,"row 24, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Right,Auto,1,2.0,2.0,Expt 7(Sheet1).csv,"row 24, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Through,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 25, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Left,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 25, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Through,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 25, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Right,Auto,1,2.0,2.0,Expt 7(Sheet1).csv,"row 25, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Left,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 25, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Right,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 25, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Through,Auto,4,8.0,8.0,Expt 7(Sheet1).csv,"row 26, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Left,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 26, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Through,Auto,6,12.0,12.0,Expt 7(Sheet1).csv,"row 26, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Right,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 26, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Left,Auto,3,6.0,6.0,Expt 7(Sheet1).csv,"row 26, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Right,Auto,2,4.0,4.0,Expt 7(Sheet1).csv,"row 26, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Through,Auto,4,8.0,8.0,Expt 7(Sheet1).csv,"row 27, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Left,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 27, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Through,Auto,9,18.0,18.0,Expt 7(Sheet1).csv,"row 27, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Right,Auto,3,6.0,6.0,Expt 7(Sheet1).csv,"row 27, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Left,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 27, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Right,Auto,0,0.0,0.0,Expt 7(Sheet1).csv,"row 27, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Through,Truck,7,24.5,24.5,Expt 7(Sheet1).csv,"row 28, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),0-4 min,Left,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 28, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Through,Truck,9,31.5,31.5,Expt 7(Sheet1).csv,"row 28, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),0-4 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 28, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Left,Truck,2,7.0,7.0,Expt 7(Sheet1).csv,"row 28, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),0-4 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 28, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Through,Truck,10,35.0,35.0,Expt 7(Sheet1).csv,"row 29, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),4-8 min,Left,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 29, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Through,Truck,7,24.5,24.5,Expt 7(Sheet1).csv,"row 29, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),4-8 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 29, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Left,Truck,1,3.5,3.5,Expt 7(Sheet1).csv,"row 29, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),4-8 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 29, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Through,Truck,9,31.5,31.5,Expt 7(Sheet1).csv,"row 30, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),8-12 min,Left,Truck,1,3.5,3.5,Expt 7(Sheet1).csv,"row 30, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Through,Truck,18,63.0,63.0,Expt 7(Sheet1).csv,"row 30, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),8-12 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 30, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Left,Truck,1,3.5,3.5,Expt 7(Sheet1).csv,"row 30, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),8-12 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 30, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Through,Truck,13,45.5,45.5,Expt 7(Sheet1).csv,"row 31, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),12-16 min,Left,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 31, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Through,Truck,3,10.5,10.5,Expt 7(Sheet1).csv,"row 31, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),12-16 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 31, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Left,Truck,2,7.0,7.0,Expt 7(Sheet1).csv,"row 31, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),12-16 min,Right,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 31, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Through,Truck,14,49.0,49.0,Expt 7(Sheet1).csv,"row 32, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,A (→),16-22 min,Left,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 32, cols 1-6",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Through,Truck,12,42.0,42.0,Expt 7(Sheet1).csv,"row 32, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,B (←),16-22 min,Right,Truck,1,3.5,3.5,Expt 7(Sheet1).csv,"row 32, cols 8-13",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Left,Truck,0,0.0,0.0,Expt 7(Sheet1).csv,"row 32, cols 15-20",csv
+Group 5,Exp7,T-intersection (not named); 3 approaches,C (↓),16-22 min,Right,Truck,4,14.0,14.0,Expt 7(Sheet1).csv,"row 32, cols 15-20",csv
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Straight,Truck,17,,51.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Straight,LCV,29,,43.5,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Straight,Bus,8,,24.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Straight,Car,87,,87.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Straight,Auto,12,,12.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Straight,Two Wheeler,87,,43.5,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Right turn,Truck,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Right turn,LCV,4,,6.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Right turn,Bus,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Right turn,Car,21,,21.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Right turn,Auto,5,,5.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 1,whole count (duration not stated; ×3 used for hourly),Right turn,Two Wheeler,18,,9.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Straight,Truck,12,,36.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Straight,LCV,34,,51.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Straight,Bus,14,,42.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Straight,Car,111,,111.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Straight,Auto,13,,13.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Straight,Two Wheeler,129,,64.5,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Left turn,Truck,1,,3.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Left turn,LCV,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Left turn,Bus,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Left turn,Car,6,,6.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Left turn,Auto,2,,2.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 2,whole count (duration not stated; ×3 used for hourly),Left turn,Two Wheeler,12,,6.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Right turn,Truck,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Right turn,LCV,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Right turn,Bus,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Right turn,Car,3,,3.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Right turn,Auto,2,,2.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Right turn,Two Wheeler,6,,3.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Left turn,Truck,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Left turn,LCV,3,,4.5,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Left turn,Bus,0,,0.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Left turn,Car,18,,18.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Left turn,Auto,8,,8.0,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text
+Group 12,Exp7,T-intersection (not named),Route 3,whole count (duration not stated; ×3 used for hourly),Left turn,Two Wheeler,11,,5.5,CE323_EXP7 (1).pdf,p.2 observation tables,pdf text

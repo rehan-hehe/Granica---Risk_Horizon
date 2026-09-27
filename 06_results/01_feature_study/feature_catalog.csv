@@ -1,0 +1,53 @@
+feature,missing_share,zero_share,spearman_with_target,mutual_information,group,source,definition,redundancy_cluster,kept_in_final_A2,used_in_A1_spf,decision,val_permutation_importance
+hw_rank,0.0,0.0,0.2145,0.0317,road_class,OSM,Road hierarchy 0 (service/track) .. 6 trunk,10,True,True,KEEP,0.054641582089534735
+nearby_ksi_3km,0.0,0.2306,0.1217,0.01114,crash_history,iRAD (engineered),KSI crashes per month on other segments within 3km,25,True,False,KEEP,0.053082989916701816
+length_m,0.0,0.0,0.1318,0.01261,geometry,OSM,segment length (m),40,True,False,KEEP,0.03339668888343331
+turn_deg_per_km,0.0,0.1221,-0.096,0.01084,geometry,OSM,total turning per km,4,True,True,KEEP,0.006909039335379658
+dist_to_main_road_km,0.0,0.1516,-0.1759,0.02496,network,OSM (engineered),"distance to nearest main road, capped 20 km",24,True,True,KEEP,0.006456726701454712
+is_divided,0.0,0.9736,0.1646,0.0054,road_class,OSM,oneway main road (dual carriageway proxy),13,True,True,KEEP,0.006099766640181231
+nearby_ksi_500m,0.0,0.7807,0.1747,0.01205,crash_history,iRAD (engineered),KSI crashes per month on other segments within 500m,30,True,True,KEEP,0.005898015018081698
+mid_lon,0.0,0.0,-0.0756,0.00496,location,OSM,longitude of segment midpoint,7,True,False,KEEP,0.004325961338099848
+night_light,0.0,0.045,0.0828,0.00527,lighting,VIIRS,"radiance around segment (3x3 pixels, ~1.4 km)",33,True,False,KEEP,0.003871546387057312
+nearby_ksi_1km_rel,0.0,0.0,0.1435,0.01488,crash_history_rel,iRAD (engineered),nearby KSI rate within 1 km / regional KSI rate per road-km (reporting-drift corrected),28,True,True,KEEP,0.0033239904256463504
+mid_lat,0.0,0.0,-0.023,0.00551,location,OSM,latitude of segment midpoint,9,True,False,KEEP,0.003200590100690498
+main_road_km_1km,0.0,0.2697,0.1343,0.01422,network,OSM (engineered),main-road km within 1 km,23,True,True,KEEP,0.002690791457450403
+nearby_ksi_3km_rel,0.0,0.0,0.1278,0.00984,crash_history_rel,iRAD (engineered),nearby KSI rate within 3 km / regional KSI rate per road-km (reporting-drift corrected),26,True,True,KEEP,0.002153430318711047
+junctions_1km,0.0,0.0387,-0.0201,0.00095,junction_points,OSM (engineered),junction nodes on segments within 1 km,38,True,False,KEEP,0.00124620600972003
+turn_contrast,0.0,0.3995,-0.0034,0.01378,geometry,OSM (engineered),turning minus mean of neighbouring segments on the same way,5,True,True,KEEP,0.0010951417391828033
+nearby_severity_ratio_1km,0.0,0.0,0.0999,0.01364,crash_history,iRAD (engineered),share of nearby crashes that were KSI,31,True,True,KEEP,0.0009721581436389459
+is_national_highway,0.0,0.9503,0.2631,0.01672,road_class,OSM,ref contains NH,12,True,True,KEEP,0.0008460560236333958
+junctions_per_km,0.0,0.3039,-0.0403,0.00666,junction_points,OSM,junctions per km,37,True,False,KEEP,0.000826820342895862
+road_km_5km,0.0,0.0,-0.0254,0.00139,network,OSM (engineered),road km within 5 km (urbanity),39,True,True,KEEP,0.0005613515898223842
+nearby_ksi_1km_recent,0.0,0.652,0.1473,0.01326,crash_history,iRAD (engineered),"KSI per month within 1 km, last 12 data months",27,True,False,KEEP,0.000530783349244146
+light_contrast,0.0,0.0063,0.0908,0.00573,lighting,VIIRS (engineered),local vs 3 km light: lit strip in a dark area > 0,41,True,True,KEEP,0.0005265980915379664
+night_light_10km,0.0,0.0004,0.0185,0.00358,lighting,VIIRS (engineered),mean radiance within 10 km (regional development),34,True,True,KEEP,0.0003221108551256513
+is_bridge,0.0,0.9712,-0.01,0.0,geometry,OSM,bridge tag,6,True,True,KEEP,0.00013156646772461978
+school_500m,0.0,0.4798,0.0072,0.0,pedestrian_places,OSM (engineered),schools/colleges within 500 m,42,True,True,KEEP,0.00010840434482534134
+nearby_fatal_1km,0.0,0.7326,0.1335,0.00578,crash_history,iRAD (engineered),fatal crashes per month on other segments within 1 km,29,True,True,KEEP,8.864252291664875e-05
+junctions,0.0,0.3039,0.0167,0.00255,junction_points,OSM,junction nodes within 5 m,36,True,True,KEEP,6.204383796989954e-05
+dist_to_town_km,0.0,0.0052,0.0293,0.00012,lighting,VIIRS (engineered),"distance to nearest bright-urban pixel (>=20 nW), capped 50 km",35,True,True,KEEP,5.000781600895121e-05
+poi_2km,0.0,0.3129,0.058,0.00339,pedestrian_places,OSM (engineered),all places within 2 km (settlement size),32,True,True,KEEP,3.0568050490598074e-05
+ped_places_x_main,0.0,0.9869,0.1755,0.00384,pedestrian_places,engineered,places within 200 m on a main road (fast traffic meets pedestrians),15,True,True,KEEP,1.1269540828434676e-05
+is_main_road,0.0,0.8773,0.2838,0.02881,road_class,OSM,trunk/primary/secondary incl. links,11,True,True,KEEP,0.0
+is_unpaved,0.0,0.9785,-0.0193,0.00154,road_class,OSM,surface tag unpaved (94% of tags missing),45,True,True,KEEP,0.0
+poi200_eatery,0.0,0.9834,0.0406,0.0,pedestrian_places,OSM,eatery places within 200 m,17,True,True,KEEP,0.0
+poi200_worship,0.0,0.9847,0.0256,0.00245,pedestrian_places,OSM,worship places within 200 m,21,True,True,KEEP,-1.994285223610448e-05
+is_link,0.0,0.9979,0.0105,0.00329,road_class,OSM,slip road / link,46,False,False,no validation value (backward elimination),0.0
+poi200_education,0.0,0.9842,0.0268,0.0,pedestrian_places,OSM,education places within 200 m,20,False,False,no validation value (backward elimination),0.0
+poi200_fuel,0.0,0.9918,0.0651,0.0,pedestrian_places,OSM,fuel places within 200 m,14,False,False,no validation value (backward elimination),0.0
+n_rail_crossing,0.0,0.9904,0.0243,0.0,junction_points,OSM,rail_crossing within 30 m,43,False,False,no validation value (backward elimination),-7.119991462112285e-06
+poi200_transit,0.0,0.9926,0.0264,0.00065,pedestrian_places,OSM,transit places within 200 m,44,False,False,no validation value (backward elimination),-7.86924940314737e-06
+poi200_market_shop,0.0,0.9762,0.0473,0.0,pedestrian_places,OSM,market_shop places within 200 m,16,False,False,no validation value (backward elimination),-1.3950563204245814e-05
+poi200_total,0.0,0.933,0.0799,0.0,pedestrian_places,OSM,total places within 200 m,19,False,False,no validation value (backward elimination),-2.294375010052363e-05
+poi200_health,0.0,0.9714,0.0628,0.0,pedestrian_places,OSM,health places within 200 m,18,False,False,no validation value (backward elimination),-2.759739494696545e-05
+poi_500m,0.0,0.425,0.0335,0.0,pedestrian_places,OSM (engineered),all places within 500 m,22,False,False,no validation value (backward elimination),-5.753809339264504e-05
+sinuosity,0.0,0.0,-0.0784,0.00771,geometry,OSM,path length / straight-line length,4,False,False,redundant with turn_deg_per_km (|rho|>=0.85),
+n_signal,0.0,0.9997,0.0275,0.0,junction_points,OSM,signal within 30 m,3,False,False,almost always zero (>99.8%),
+n_speed_breaker,0.0,0.9999,0.0182,0.00166,junction_points,OSM,speed_breaker within 30 m,47,False,False,almost always zero (>99.8%),
+n_ped_crossing,0.0,0.9981,0.0204,0.0,junction_points,OSM,ped_crossing within 30 m,1,False,False,almost always zero (>99.8%),
+n_bus_stop,0.0,0.9987,0.0427,0.00515,junction_points,OSM,bus_stop within 30 m,2,False,False,almost always zero (>99.8%),
+night_light_3km,0.0,0.0063,0.0566,0.00386,lighting,VIIRS (engineered),mean radiance within 3 km,33,False,False,redundant with night_light (|rho|>=0.85),
+road_km_1km,0.0,0.0,-0.0121,0.00034,network,OSM (engineered),road km within 1 km,38,False,False,redundant with junctions_1km (|rho|>=0.85),
+nearby_ksi_1km,0.0,0.6077,0.1551,0.01024,crash_history,iRAD (engineered),KSI crashes per month on other segments within 1km,27,False,False,redundant with nearby_ksi_1km_recent (|rho|>=0.85),
+nearby_crashes_1km,0.0,0.5731,0.1565,0.01141,crash_history,iRAD (engineered),all crashes per month on other segments within 1 km,27,False,False,redundant with nearby_ksi_1km_recent (|rho|>=0.85),
+regional_ksi_rate,0.0,0.0092,0.1012,0.00494,reporting_level,iRAD (engineered),KSI per road-km per month reported in the 0.5-degree region (mostly reporting level),8,False,False,group reporting_level removed: validation improved without it,

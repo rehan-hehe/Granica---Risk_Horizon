@@ -1,0 +1,16 @@
+term,odds_ratio_2023_24,ci95_low,ci95_high,p_value,odds_ratio_2025_26_refit
+Intercept,0.2028,0.168,0.2447,0.0,0.1222
+"C(light, Treatment('daylight'))[T.twilight]",1.2235,1.0392,1.4406,0.0155,1.3703
+"C(light, Treatment('daylight'))[T.dark]",1.4262,1.271,1.6004,0.0,1.2726
+"C(lighting, Treatment('bright_urban'))[T.lit_town]",0.9611,0.8017,1.1522,0.668,1.4783
+"C(lighting, Treatment('bright_urban'))[T.dim]",1.3018,1.086,1.5605,0.0043,2.3104
+"C(lighting, Treatment('bright_urban'))[T.dark_rural]",1.5923,1.2104,2.0947,0.0009,3.6142
+"C(lighting, Treatment('bright_urban'))[T.unknown]",1.4495,1.2005,1.75,0.0001,3.1773
+"C(road, Treatment('minor_or_unknown'))[T.national_highway]",0.9412,0.8696,1.0187,0.1334,0.8901
+"C(road, Treatment('minor_or_unknown'))[T.other_main]",0.878,0.8034,0.9595,0.0041,0.8819
+C(season)[T.post-monsoon],1.3565,1.2374,1.4872,0.0,1.1559
+C(season)[T.pre-monsoon],1.4005,1.2882,1.5225,0.0,1.0386
+C(season)[T.winter],1.5953,1.4554,1.7487,0.0,1.0599
+dark_unlit,0.9758,0.8519,1.1178,0.7242,0.9971
+rain,0.9684,0.8747,1.0721,0.5362,0.9419
+fog,0.8342,0.7256,0.9592,0.0109,0.9186

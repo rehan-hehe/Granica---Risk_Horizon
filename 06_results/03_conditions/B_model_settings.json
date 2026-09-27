@@ -1,0 +1,9 @@
+{
+ "severity_auc_train": 0.582,
+ "severity_auc_test": 0.562,
+ "severity_crashes_train": 21108,
+ "severity_crashes_test": 23004,
+ "fatal_share_train": 0.2662,
+ "fatal_share_test": 0.2227,
+ "runtime_s": 140
+}

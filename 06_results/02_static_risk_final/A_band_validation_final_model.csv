@@ -1,0 +1,5 @@
+band,road_km,test_KSI,new_hotspots,share_road_km,share_test_KSI,KSI_per_100km
+3 very high,811.2392,1642,50,0.01,0.1771,202.4064
+2 high,3247.1589,3017,133,0.04,0.3254,92.912
+1 elevated,12175.1941,3028,49,0.15,0.3266,24.8702
+0 low,64935.7552,1584,4,0.8,0.1709,2.4393

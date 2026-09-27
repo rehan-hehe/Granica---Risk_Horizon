@@ -1,0 +1,25 @@
+site,point_id,lat,lon,crashes_100m,fatal,station
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_01,26.142,91.676,41,7,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_02,26.155,91.676,25,1,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_03,26.152,91.677,19,4,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_04,26.126,91.68,16,4,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_05,26.152,91.655,16,4,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_06,26.158,91.674,15,0,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_07,26.158,91.672,13,2,JALUKBARI OP
+NH27_Jalukbari_Saraighat_Amingaon,NH27_J_08,26.161,91.671,13,2,JALUKBARI OP
+GS_Road_Dispur_Khanapara,GS_Roa_09,26.15,91.785,24,5,DISPUR P.S
+GS_Road_Dispur_Khanapara,GS_Roa_10,26.175,91.777,15,1,GEETA NAGAR
+GS_Road_Dispur_Khanapara,GS_Roa_11,26.119,91.83,13,3,KHANAPARA OP
+GS_Road_Dispur_Khanapara,GS_Roa_12,26.111,91.777,12,5,BASISTHA
+GS_Road_Dispur_Khanapara,GS_Roa_13,26.146,91.79,12,3,DISPUR P.S
+GS_Road_Dispur_Khanapara,GS_Roa_14,26.111,91.788,12,7,BASISTHA
+GS_Road_Dispur_Khanapara,GS_Roa_15,26.111,91.789,12,3,BASISTHA
+GS_Road_Dispur_Khanapara,GS_Roa_16,26.132,91.808,11,2,DISPUR P.S
+NH27_Changsari_Baihata,NH27_C_17,26.254,91.692,18,2,CHANGSARI PS
+NH27_Changsari_Baihata,NH27_C_18,26.209,91.686,14,1,CHANGSARI PS
+NH27_Changsari_Baihata,NH27_C_19,26.22,91.698,13,1,CHANGSARI PS
+NH27_Changsari_Baihata,NH27_C_20,26.244,91.689,12,2,CHANGSARI PS
+NH27_Changsari_Baihata,NH27_C_21,26.294,91.714,10,1,CHANGSARI PS
+NH27_Changsari_Baihata,NH27_C_22,26.335,91.722,9,5,BAIHATA CHARIALI
+NH27_Changsari_Baihata,NH27_C_23,26.235,91.689,9,1,CHANGSARI PS
+NH27_Changsari_Baihata,NH27_C_24,26.309,91.716,8,0,CHANGSARI PS

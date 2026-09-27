@@ -1,0 +1,7 @@
+icao,name,lat,lon,crashes_within_30km,share,keep
+VEGT,Guwahati (LGBI),26.1061,91.5859,6984,0.1583,True
+VETZ,Tezpur (Salonibari),26.7091,92.7847,2282,0.0517,True
+VEJT,Jorhat (Rowriah),26.7315,94.1755,1821,0.0413,True
+VEKU,Silchar (Kumbhirgram),24.9129,92.9787,1717,0.0389,True
+VEMN,Dibrugarh (Mohanbari),27.4839,95.0169,1497,0.0339,True
+VELR,North Lakhimpur (Lilabari),27.2955,94.0976,1114,0.0253,True

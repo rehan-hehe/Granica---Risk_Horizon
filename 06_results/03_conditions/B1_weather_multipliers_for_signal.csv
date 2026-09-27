@@ -1,0 +1,3 @@
+condition,odds_ratio,ci95_low,ci95_high,signal_multiplier
+cond_rain,0.9551,0.9223,0.989,1.0
+cond_fog_likely_era5,0.9773,0.9271,1.0302,1.0

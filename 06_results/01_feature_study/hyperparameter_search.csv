@@ -1,0 +1,9 @@
+loss,max_iter,learning_rate,max_leaf_nodes,min_samples_leaf,l2_regularization,random_state,val_aucc20,val_deviance
+poisson,500,0.1,31,200,5.0,0,0.5986,38135.0
+poisson,300,0.1,63,50,0.0,0,0.5856,41100.0
+poisson,500,0.05,63,400,0.0,0,0.5996,37951.0
+poisson,500,0.1,15,400,0.0,0,0.5996,38028.0
+poisson,800,0.1,15,100,0.0,0,0.596,38602.0
+poisson,500,0.05,63,100,1.0,0,0.5983,38095.0
+poisson,800,0.08,31,200,5.0,0,0.5981,38100.0
+poisson,800,0.1,63,200,1.0,0,0.5929,38812.0

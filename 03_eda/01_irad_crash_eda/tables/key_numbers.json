@@ -1,0 +1,164 @@
+{
+  "pdf_files": 44928,
+  "accidents_kept": 44114,
+  "duplicates": 655,
+  "parse_errors": 159,
+  "verify_cells": 44768,
+  "verify_missing": 0,
+  "form_tier_pct": {
+    "full (with transport inspection)": 47.1,
+    "medium (vehicles/persons)": 37.3,
+    "skeletal (accident summary only)": 15.5
+  },
+  "years": {
+    "2023": 9777,
+    "2024": 11331,
+    "2025": 15991,
+    "2026": 7014
+  },
+  "irad_2023_vs_morth_ratio": 1.32,
+  "irad_2023_deaths": 3237,
+  "irad_2023_death_coverage_vs_morth": 0.982,
+  "geo": {
+    "zero_zero": 1,
+    "inside_assam_pct": 100.0,
+    "coords_reused_5plus": 0,
+    "accidents_on_reused_coords": 0
+  },
+  "hotspots_100m": {
+    "cells_with_5plus": 567,
+    "accidents_in_them": 3821,
+    "share_pct": 8.7
+  },
+  "field_reliability_usable_pct": {
+    "T.speed_limiter_device": 5.8,
+    "T.reflective_tapes": 11.6,
+    "T.lights_functional": 27.1,
+    "T.accident_due_to": 29.1,
+    "T.vlt_device": 34.8,
+    "D.cell_phone_while_driving": 36.9,
+    "D.seatbelt_helmet": 42.8,
+    "D.drunk_driving": 46.5,
+    "A.initial_observation": 67.8,
+    "D.licence_type": 75.5,
+    "V.skid_mark": 78.4,
+    "A.collision_nature": 84.5,
+    "A.road_classification": 87.5,
+    "V.vehicle_damage": 87.5,
+    "A.light_condition": 87.5,
+    "A.visibility_raw": 87.5,
+    "A.weather_condition": 87.5,
+    "V.accused_victim": 94.9,
+    "D.hospitalization_delay": 97.1
+  },
+  "fatal_share_night_19_05": 26.3,
+  "fatal_share_day_06_18": 23.2,
+  "sunny_at_night_pct_of_dark": 59.6,
+  "vehicles_per_accident": {
+    "1": 43.5,
+    "2": 39.4,
+    "0": 15.5,
+    "3": 1.4,
+    "4": 0.1
+  },
+  "qie_rir": {
+    "2W": 0.52,
+    "Auto": 0.72,
+    "Bicycle": 0.02,
+    "Bus": 2.43,
+    "Car": 1.57,
+    "Other": 1.36,
+    "Tractor": 2.22,
+    "Truck": 3.2
+  },
+  "accidents_with_2w_pct": 45.7,
+  "fatal_accidents_with_2w_pct": 57.1,
+  "tw_counterparts": {
+    "Car": {
+      "n": 3509,
+      "fatal_pct": 22.2
+    },
+    "2W (other 2W)": {
+      "n": 2891,
+      "fatal_pct": 26.6
+    },
+    "Truck": {
+      "n": 1678,
+      "fatal_pct": 42.8
+    },
+    "Other": {
+      "n": 1288,
+      "fatal_pct": 29.4
+    },
+    "Bicycle": {
+      "n": 573,
+      "fatal_pct": 31.8
+    },
+    "Auto": {
+      "n": 556,
+      "fatal_pct": 13.7
+    }
+  },
+  "rider_ksi_head_injury_pct": 48.9,
+  "rider_helmet_field": {
+    "Not Known": 46.1,
+    "Yes": 32.8,
+    "No": 11.2,
+    "Not Applicable": 9.8
+  },
+  "hosp_mode_ksi_pct": {
+    "Private Vehicle": 39.9,
+    "108 Ambulance": 30.2,
+    "Police Vehicle": 11.8,
+    "Private Ambulance": 11.8,
+    "Not Known": 2.6,
+    "By Self": 2.2
+  },
+  "report_delay": {
+    "median_h": 0.27,
+    "over_1h_pct": 28.5,
+    "over_6h_pct": 21.3,
+    "over_24h_pct": 15.9
+  },
+  "death_timing": {
+    "n_with_date": 3104,
+    "invalid_removed": 111,
+    "died_within_1h_pct": 41.7,
+    "died_1_24h_pct": 33.3,
+    "died_after_24h_pct": 25.0,
+    "median_h": 2.0
+  },
+  "unwitnessed_proxy": {
+    "n": 5676,
+    "pct_of_all": 12.9,
+    "fatal_pct": 31.9,
+    "fatal_pct_others": 23.2,
+    "median_report_delay_h": 0.33
+  },
+  "violation_high_speed_pct": 18.1,
+  "inspection": {
+    "speed_limiter_device": {
+      "Not Known": 1310,
+      "No": 1192,
+      "Yes": 506
+    },
+    "vlt_device": {
+      "Not Known": 18708,
+      "No": 9842,
+      "Yes": 424
+    },
+    "reflective_tapes": {
+      "No": 1867,
+      "Yes": 1568
+    },
+    "bull_bars": {
+      "No": 4160,
+      "Yes": 302
+    },
+    "lights_functional": {
+      "Yes": 4812,
+      "No": 3190
+    }
+  },
+  "severity_vs_killed_mismatch": 68
+}

@@ -1,0 +1,16 @@
+pair,collision_nature,n,fatal_pct
+2W – Car,Head on Collision,1274,22.3
+2W – 2W,Head on Collision,1215,23.0
+2W – Car,Hit from Back,1052,29.7
+2W – Car,Hit from Side,914,14.7
+2W – 2W,Hit from Back,862,37.9
+2W – Truck,Hit from Back,644,45.2
+2W – 2W,Hit from Side,617,17.2
+Car – Truck,Hit from Back,503,8.3
+2W – Other,Head on Collision,430,31.6
+2W – Truck,Head on Collision,427,46.1
+2W – Other,Hit from Back,427,31.1
+Car – Truck,Hit from Side,408,3.2
+2W – Truck,Hit from Side,404,35.4
+Car – Car,Hit from Back,403,4.0
+Truck – Truck,Hit from Back,348,11.5

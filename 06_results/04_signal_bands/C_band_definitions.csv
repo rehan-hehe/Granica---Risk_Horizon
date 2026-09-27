@@ -1,0 +1,5 @@
+band,label,defined_as,risk_threshold_ksi_per_km_yr,suggested_vehicle_action
+3,very high,top 1% of road length,>= 1.340,Chime + spoken warning ~500 m before; ACC slows before the segment; max pedestrian sensitivity
+2,high,next 4% of road length,>= 0.398,Chime + icon ~300 m before; cap speed near limit; larger following gap; pedestrian sensitivity up if ped_flag
+1,elevated,next 15% of road length,>= 0.066,No alert (logged); slightly larger following gap
+0,low,remaining 80%,< 0.066,Normal driving

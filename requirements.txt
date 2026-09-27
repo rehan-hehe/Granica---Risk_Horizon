@@ -1,0 +1,15 @@
+pandas
+numpy
+pyarrow
+scipy
+scikit-learn
+statsmodels
+shapely
+pyproj
+pvlib
+matplotlib
+openpyxl
+requests
+h5py
+osmium
+folium

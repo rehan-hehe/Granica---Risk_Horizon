@@ -1,0 +1,20 @@
+,blank %,not known / vague %,usable %
+T.speed_limiter_device,89.8,4.4,5.8
+T.reflective_tapes,88.4,0.0,11.6
+T.lights_functional,72.9,0.0,27.1
+T.accident_due_to,1.1,69.8,29.1
+T.vlt_device,1.8,63.4,34.8
+D.cell_phone_while_driving,3.8,59.3,36.9
+D.seatbelt_helmet,6.9,50.2,42.8
+D.drunk_driving,3.6,49.9,46.5
+A.initial_observation,12.6,19.6,67.8
+D.licence_type,5.7,18.8,75.5
+V.skid_mark,21.6,0.0,78.4
+A.collision_nature,15.5,0.0,84.5
+A.road_classification,12.5,0.0,87.5
+V.vehicle_damage,4.8,7.7,87.5
+A.light_condition,12.5,0.0,87.5
+A.visibility_raw,12.5,0.0,87.5
+A.weather_condition,12.5,0.0,87.5
+V.accused_victim,0.4,4.7,94.9
+D.hospitalization_delay,2.9,0.0,97.1

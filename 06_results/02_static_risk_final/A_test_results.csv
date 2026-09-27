@@ -1,0 +1,13 @@
+split,model,cap1,cap5,cap10,cap20,aucc20,new_hotspots_in_top5pct,new_hotspots_total
+main: Jan23-Jun25 -> Jul25-May26,B  past crashes on the segment (blackspot-list approach),0.1522,0.3948,0.5387,0.6319,0.4785,124,236
+main: Jan23-Jun25 -> Jul25-May26,"v1 previous model (old features & settings, same split)",0.1651,0.4925,0.6741,0.8189,0.6046,185,236
+main: Jan23-Jun25 -> Jul25-May26,A1 NB safety performance function (v2 terms),0.1496,0.4584,0.6458,0.7957,0.5786,168,236
+main: Jan23-Jun25 -> Jul25-May26,A2 boosted Poisson trees (v2 features),0.1506,0.4865,0.6753,0.8213,0.6037,189,236
+main: Jan23-Jun25 -> Jul25-May26,Blend 0.2*A1 + 0.8*A2,0.1609,0.4876,0.6743,0.8241,0.6056,184,236
+main: Jan23-Jun25 -> Jul25-May26,FINAL v2: blend + Empirical Bayes,0.1716,0.4973,0.6821,0.8267,0.6106,184,236
+continuity: 2023-24 -> Jan25-May26 (v1 split),B  past crashes on the segment (blackspot-list approach),0.141,0.3722,0.488,0.5917,0.4446,64,91
+continuity: 2023-24 -> Jan25-May26 (v1 split),"v1 previous model (old features & settings, same split)",0.1588,0.4865,0.6717,0.8094,0.598,84,91
+continuity: 2023-24 -> Jan25-May26 (v1 split),A1 NB safety performance function (v2 terms),0.1443,0.456,0.6448,0.7857,0.5747,82,91
+continuity: 2023-24 -> Jan25-May26 (v1 split),A2 boosted Poisson trees (v2 features),0.1553,0.4859,0.667,0.8136,0.5966,86,91
+continuity: 2023-24 -> Jan25-May26 (v1 split),Blend 0.2*A1 + 0.8*A2,0.1658,0.487,0.6685,0.815,0.5988,87,91
+continuity: 2023-24 -> Jan25-May26 (v1 split),FINAL v2: blend + Empirical Bayes,0.1683,0.4921,0.6753,0.817,0.6039,85,91

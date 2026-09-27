@@ -1,0 +1,5 @@
+group,run,direction,section_length_km,travel_time_s,opposite_pcu_used,overtaking_pcu,overtaken_pcu,q_reported,t_stream_reported_s,v_reported_kmh,k_reported,source_file,source_location,q_recomputed_pcu_hr,t_stream_recomputed_s,v_recomputed_kmh,k_recomputed
+Group 5,NB-1,Northbound (Lane 1),3.0,227,263.8,23.1,38.4,1735.212224108659,258.74251497005986,41.740337884748904,41.57159026598755,Expt 6.xlsx,Sheet1!R5:AA5,1735.212,258.743,41.74,41.572
+Group 5,NB-2,Northbound (Lane 1),3.0,248,334.5,21.4,26.1,2264.801512287334,255.4708533653846,42.27488129361438,53.57321991178323,Expt 6.xlsx,Sheet1!R6:AA6,2264.802,255.471,42.275,53.573
+Group 5,SB-1,Southbound (Lane 2),3.0,362,299.2,18.7,16.2,1627.6400679117148,356.4705219677056,30.29703533516419,53.72275042444823,Expt 6.xlsx,Sheet1!R8:AA8,1627.64,356.471,30.297,53.723
+Group 5,SB-2,Southbound (Lane 2),3.0,281,337.5,16.4,12.4,2303.5916824196597,274.74889217134415,39.30862073600172,58.60270951480781,Expt 6.xlsx,Sheet1!R9:AA9,2303.592,274.749,39.309,58.603

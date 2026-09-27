@@ -1,0 +1,9 @@
+CE323 Transport Engineering Lab-II — consolidated dataset
+"Built 2026-09-26 from 25 files in ""Lab Report"" (Group 5, Group 12, and Ayush Kumar individual reports), IIT Guwahati, Jan-Mar 2026."
+"Instructor: Prof. A.K. Maurya. Personal details (names, roll numbers, licence plates) removed or pseudonymised."
+Rule 1 — raw values verbatim. Nothing in raw sheets is corrected; recomputed values sit in separate columns.
+"Rule 2 — every row has source_file, source_location and extraction_method."
+Rule 3 — every inconsistency is written to Validation_Log with severity; nothing silently fixed.
+"Raw observation sheets: E3E4_G5_Vehicles, E3_Volume, E4_G12_HeadwayBins, E5_SpotSpeed, E6_MovingObserver_Counts, E6_G5_Runs, E7_TMC, E8_G5_Parking_Vehicles, E8_G5_Accumulation, E8_G12_Parking_Bays, E9_G5_Interviews, E9_G12_PartialOD, E9_Volume, E9_Zones."
+"Derived: E4_G5_PairHeadways, Recomputed_Stats. Reported: Reported_Results (with MATCH/MISMATCH vs recomputation)."
+Not digitised: Ayush Kumar Exp5 handwritten radar sheets (see AK_E5_Template); V-Box raw trip files (not in folder); Exp1 (no reports).

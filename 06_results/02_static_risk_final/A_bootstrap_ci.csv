@@ -1,0 +1,3 @@
+split,comparison,cap5_gain,cap5_ci95,aucc20_gain,aucc20_ci95,reps
+main,FINAL v2 minus past crashes,0.1058,0.0810 .. 0.1220,0.1412,0.1152 .. 0.1679,300
+main,FINAL v2 minus v1 model,0.0045,-0.0025 .. 0.0111,0.0059,0.0031 .. 0.0087,300

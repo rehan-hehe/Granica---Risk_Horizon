@@ -1,0 +1,19 @@
+sheet,column,meaning
+*,group,Group 5 / Group 12 / Individual (Ayush Kumar). Student names and roll numbers intentionally omitted.
+*,source_file / source_location,Exact file and sheet!cell / page / table the value was read from.
+*,extraction_method,xlsx / csv / docx table / pdf text / pdf table / image (read manually). Image-read values are flagged as such.
+E3E4_G5_Vehicles,"t_in_s, t_out_s",Seconds from video start when the front bumper crosses the entry / exit line (final values from the lane analysis sheets).
+E3E4_G5_Vehicles,"t_in_rawsheet, t_out_rawsheet","Same times as typed in the raw-entry sheet ""Speed (free & non free)"". Differences are flagged."
+E3E4_G5_Vehicles,speed_kmh_recomputed,50 m / (t_out_s − t_in_s) × 3.6 (trap length 50 m confirmed from sheet speeds).
+E3E4_G5_Vehicles,headway_to_leader_s,In-time gap to the previous vehicle in the same lane (recomputed). headway_reported_s is the sheet value (gap to next vehicle).
+E3E4_G5_Vehicles,free_flow_reported / free_flow_recomputed_gt5s,Sheet flag vs recomputed flag (gap to next vehicle > 5 s).
+E3_Volume,"count, pcu","Classified 2-min counts; PCU factors from the group sheet (MA 4.5, Truck 3.5, LCV 2.2, Bus 3.5, Car 1, Auto 2, 2W 0.5)."
+E5_SpotSpeed,flow_state,"Group 5: ""Free flow"" / ""Non-free (car-following)"". Group 12: ""Free flow"" / ""Forced (car-following)"". Group 5 ""Comb."" columns are duplicates and not repeated."
+E6_MovingObserver_Counts,count_type,Overtaking test vehicle / Overtaken by test vehicle / Opposite-direction count.
+E6_G5_Runs,q/t/v/k _reported vs _recomputed,Group values vs textbook moving-observer formulae recomputed from the same counts (PCU).
+E7_TMC,pcu_reported / pcu_recomputed,"Group 5 PCU factors: Car 1, Bus 3.5, 2W 0.5, LCV 2.2, Auto 2, Truck 3.5. Group 12 (IRC): Truck 3, LCV 1.5, Bus 3, Car 1, Auto 1, 2W 0.5."
+E8_G5_Parking_Vehicles,vehicle_token,Pseudonymous ID replacing the recorded plate digits (same plate → same token within a group).
+E8_G12_Parking_Bays,bay_row,Row of the group bay table; one row can hold successive vehicles.
+E9_G5_Interviews,origin_zone / destination_zone / purpose_code,"Campus zone codes (see E9_Zones) and purpose codes 1 Class, 2 Office/work, 3 Hostel return, 4 Medical, 5 Shopping, 6 Visitor, 7 Other."
+Reported_Results,check,"MATCH / MISMATCH when a reported number could be recomputed from raw data in this dataset (tolerance max(0.02, 0.5%))."
+Validation_Log,severity,HIGH = do not use reported value / method error; MEDIUM = inconsistency to disclose; LOW = minor; INFO = context.

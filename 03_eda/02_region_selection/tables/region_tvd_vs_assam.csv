@@ -1,0 +1,7 @@
+,R1 Kamrup+Guwahati City,R2 Guwahati City,R3 IITG corridor 20 km,R4 IITG core 10 km
+collision_nature,0.126,0.182,0.138,0.144
+collision_type,0.093,0.147,0.105,0.109
+vehicle_mix,0.093,0.16,0.115,0.123
+light_condition,0.079,0.13,0.106,0.077
+road_classification,0.101,0.222,0.191,0.259
+severity,0.059,0.139,0.073,0.076

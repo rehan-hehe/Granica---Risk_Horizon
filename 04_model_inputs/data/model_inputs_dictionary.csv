@@ -1,0 +1,14 @@
+column(s),meaning
+segment_id,Road segment key (<=500 m piece of an OSM way)
+highway / is_main_road / is_national_highway,OSM road class; main = trunk/primary/secondary (+links); NH from ref
+"length_m, sinuosity, turn_deg_per_km",Segment length; path length / straight distance; total turning per km
+"junctions, junctions_per_km",Road-graph nodes with >=3 connections within 5 m
+"n_rail_crossing, n_speed_breaker, n_signal, n_ped_crossing, n_bus_stop",OSM points within 30 m
+poi200_*,"Places within 200 m that draw pedestrians (market/shop, education, health, transit, eatery, worship, fuel)"
+"night_light_nw, night_light_class","NASA VIIRS 2024 radiance (nW/cm2/sr), 3x3 mean; class dark_rural <0.5, dim <5, lit_town <20, bright_urban"
+"crashes_*, ksi_*, fatal_crashes_*, killed_*, ped_crashes_*","iRAD counts on the segment; _train = 2023-24, _test = Jan 2025-May 2026; ksi = fatal or grievous crashes"
+blackspot_train / blackspot_test / new_blackspot_test,>=5 KSI crashes or >=10 killed in the period; new = blackspot in test but not in train
+"nearby_ksi_1km_train, nearby_crashes_1km_train, nearby_road_km_1km",KSI / crashes on OTHER segments within 1 km (2023-24); road km within 1 km
+"when_crash_hours: stratum_id, is_case","One crash (is_case=1) and its control hours (same place, weekday, clock time, other weeks of the month)"
+"when_crash_hours: era5_*, cond_*, metar_*, sun_elevation_deg, light_computed","Weather (ERA5 25 km, inferred), condition flags, airport obs, computed sun position"
+when_crash_hours: police_*,What the police recorded (crash rows only)

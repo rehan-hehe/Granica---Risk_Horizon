@@ -1,0 +1,8 @@
+condition,column,matched_odds_ratio,ci95_low,ci95_high,crash_sets_used,crashes_in_condition,reading
+Raining ≥0.5 mm in the hour (ERA5),cond_rain,0.953,0.921,0.987,44112,5229,crashes LESS likely in this condition (same place & clock time)
+Heavy rain ≥4 mm/h (ERA5),cond_heavy_rain,0.947,0.857,1.047,44112,508,no clear change
+Rain in the last 4 h (ERA5),cond_wet_road,0.937,0.912,0.963,44112,11631,crashes LESS likely in this condition (same place & clock time)
+"Fog likely: RH≥95%, wind<7 km/h, T−Td≤1°C (ERA5)",cond_fog_likely_era5,0.969,0.919,1.021,44112,2523,no clear change
+Fog observed at airport (FG or visibility <1 km),metar_fog,1.029,0.725,1.46,6817,48,no clear change
+Mist/haze/dust observed at airport,metar_mist_haze,1.037,0.946,1.137,6817,6149,no clear change
+Rain/drizzle/thunder observed at airport,metar_rain_thunder,0.955,0.867,1.051,6817,615,no clear change

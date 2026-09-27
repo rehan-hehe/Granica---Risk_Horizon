@@ -1,0 +1,9 @@
+item,value
+Rows (place-hours),"193,904"
+Crashes (cases),"44,112"
+Controls,"149,792"
+Controls per crash (avg),3.4
+Rows with ERA5 weather,100.00%
+Rows with airport observation,15.51% (only Guwahati VEGT downloaded so far; 5 more airports pending)
+Crash time window,2023-01-01 01:30:00 → 2026-05-31 23:55:00
+Crash times rounded to :00/:30,47.3%

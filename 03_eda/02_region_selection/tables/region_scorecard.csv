@@ -1,0 +1,26 @@
+,R0 Assam,R1 Kamrup+Guwahati City,R2 Guwahati City,R3 IITG corridor 20 km,R4 IITG core 10 km
+accidents,44114.0,8690.0,5487.0,6170.0,3316.0
+fatal accidents,10740.0,1983.0,1032.0,1233.0,611.0
+persons killed,11711.0,2128.0,1100.0,1313.0,650.0
+accidents / year (2023-25),12366.0,2358.0,1476.0,1679.0,897.0
+full form (with inspection) %,47.1,58.8,70.1,60.7,61.2
+skeletal form %,15.5,11.9,5.9,10.3,10.3
+road details section %,13.0,25.6,38.0,28.5,30.6
+collision nature usable %,84.5,87.9,91.7,87.8,87.8
+fatal %,24.3,22.8,18.8,20.0,18.4
+involves 2W %,45.7,47.0,46.2,47.7,49.3
+involves truck %,15.7,18.1,19.8,17.9,16.6
+involves pedestrian %,24.3,25.5,23.5,24.3,23.9
+night/dark %,35.5,41.1,46.8,44.2,40.9
+fog %,9.5,14.1,14.7,13.4,10.2
+national highway %,40.1,39.5,41.3,36.1,32.6
+urban local body %,25.3,54.3,81.9,73.8,82.2
+unwitnessed proxy %,12.9,7.3,2.9,3.5,1.2
+KSI via 108 ambulance %,30.1,34.2,26.9,34.0,30.4
+KSI via private vehicle %,39.7,26.7,28.9,25.9,22.3
+deaths with time-to-death,3104.0,602.0,306.0,362.0,172.0
+median hours to death,2.0,2.51,2.85,2.37,2.06
+median km to GMCH,117.3,10.8,6.3,7.1,6.6
+median km to VEGT (METAR),124.7,20.2,19.3,17.9,15.1
+median km to IITG,119.4,12.7,10.2,9.5,6.3
+police stations,308.0,37.0,23.0,36.0,28.0

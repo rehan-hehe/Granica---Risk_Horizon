@@ -1,0 +1,17 @@
+condition,in_condition,crashes,fatal_share,fatal_or_grievous_share
+Raining ≥0.5 mm in the hour (ERA5),False,38883,0.2468,0.7106
+Raining ≥0.5 mm in the hour (ERA5),True,5229,0.219,0.6517
+Heavy rain ≥4 mm/h (ERA5),False,43604,0.244,0.7043
+Heavy rain ≥4 mm/h (ERA5),True,508,0.2008,0.6437
+Rain in the last 4 h (ERA5),False,32481,0.2517,0.7153
+Rain in the last 4 h (ERA5),True,11631,0.2204,0.6709
+"Fog likely: RH≥95%, wind<7 km/h, T−Td≤1°C (ERA5)",False,41589,0.2449,0.7122
+"Fog likely: RH≥95%, wind<7 km/h, T−Td≤1°C (ERA5)",True,2523,0.2204,0.5628
+Fog observed at airport (FG or visibility <1 km),False,6775,0.2092,0.6717
+Fog observed at airport (FG or visibility <1 km),True,48,0.25,0.5208
+Mist/haze/dust observed at airport,False,669,0.2018,0.6203
+Mist/haze/dust observed at airport,True,6154,0.2103,0.6761
+Rain/drizzle/thunder observed at airport,False,6207,0.2102,0.6746
+Rain/drizzle/thunder observed at airport,True,616,0.2013,0.6315
+"Dark (sun below −6°, computed)",False,24368,0.2241,0.7168
+"Dark (sun below −6°, computed)",True,19744,0.2673,0.6874

@@ -1,0 +1,60 @@
+group,experiment,site,date,stream,serial,interview_time,mode_text,mode_code,mode,origin_zone,destination_zone,purpose_code,purpose,occupancy,source_file,source_location,extraction_method
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),1,10:43,Bike,3,Two Wheeler,5,7,5,Shopping,2.0,Expt 9.xlsx,Sheet1!A2:H2,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),2,10:30,Scooty,3,Two Wheeler,5,7,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A3:H3,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),3,10:51,Scooty,3,Two Wheeler,5,7,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A4:H4,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),4,10:55,Scooty,3,Two Wheeler,5,4,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A5:H5,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),5,10:58,Car,4,Car,5,1,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A6:H6,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),6,10:58,car,4,Car,5,7,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A7:H7,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),7,11:03,Scooty,3,Two Wheeler,5,6,6,Visitor,1.0,Expt 9.xlsx,Sheet1!A8:H8,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),8,11:05,Car,4,Car,5,2,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A9:H9,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),9,11:08,Car,4,Car,5,3,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A10:H10,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),10,11:12,Car,4,Car,5,2,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A11:H11,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),11,11:13,Car,4,Car,5,11,7,Other,2.0,Expt 9.xlsx,Sheet1!A12:H12,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),12,11:17,Car,4,Car,5,2,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A13:H13,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),13,11:20,Car,4,Car,5,4,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A14:H14,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),14,11:20,Car,4,Car,5,2,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A15:H15,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),15,15:22,Bike,3,Two Wheeler,5,7,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A16:H16,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),16,11:25,Car,4,Car,5,11,7,Other,1.0,Expt 9.xlsx,Sheet1!A17:H17,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),17,11:28,Scooty,3,Two Wheeler,5,11,7,Other,1.0,Expt 9.xlsx,Sheet1!A18:H18,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),18,11:30,Car,4,Car,5,2,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A19:H19,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),19,11:31,Car,4,Car,5,6,6,Visitor,2.0,Expt 9.xlsx,Sheet1!A20:H20,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),20,11:22,Car,4,Car,5,11,7,Other,2.0,Expt 9.xlsx,Sheet1!A21:H21,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),21,15:32,Cycle,2,Cycle,5,8,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A22:H22,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),22,11:35,Scooty,3,Two Wheeler,5,11,7,Other,1.0,Expt 9.xlsx,Sheet1!A23:H23,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),23,11:35,Scooty,3,Two Wheeler,5,4,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A24:H24,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),24,11:36,Cycli,2,Cycle,5,10,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A25:H25,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),25,11:37,Car,4,Car,5,2,2,Office/work,1.0,Expt 9.xlsx,Sheet1!A26:H26,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),26,11:39,Cycle,2,Cycle,5,10,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A27:H27,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),27,11:41,Car,4,Car,5,9,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A28:H28,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),28,11:43,Bike,3,Two Wheeler,5,8,4,Medical,1.0,Expt 9.xlsx,Sheet1!A29:H29,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),29,11:45,Car,4,Car,5,7,7,Other,1.0,Expt 9.xlsx,Sheet1!A30:H30,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Outgoing (col A-H),30,11:48,Cycle,2,Cycle,5,10,5,Shopping,1.0,Expt 9.xlsx,Sheet1!A31:H31,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),1,10:46,,4,Car,8,5,7,Other,2.0,Expt 9.xlsx,Sheet1!K4:Q4,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),2,10:51,,3,Two Wheeler,6,5,5,Shopping,2.0,Expt 9.xlsx,Sheet1!K5:Q5,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),3,10:54,,4,Car,6,5,5,Shopping,2.0,Expt 9.xlsx,Sheet1!K6:Q6,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),4,10:55,,4,Car,6,5,5,Shopping,,Expt 9.xlsx,Sheet1!K7:Q7,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),5,10:56,,4,Car,10,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K8:Q8,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),6,10:59,,3,Two Wheeler,8,9,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K9:Q9,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),7,11:04,,3,Two Wheeler,6,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K10:Q10,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),8,11:05,,4,Car,1,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K11:Q11,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),9,10:57,,1,Walk,7,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K12:Q12,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),10,11:20,,4,Car,11,5,3,Hostel return,1.0,Expt 9.xlsx,Sheet1!K13:Q13,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),11,11:21,,2,Cycle,10,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K14:Q14,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),12,11:23,,3,Two Wheeler,7,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K15:Q15,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),13,11:25,,4,Car,8,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K16:Q16,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),14,11:30,,4,Car,11,5,2,Office/work,1.0,Expt 9.xlsx,Sheet1!K17:Q17,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),15,11:32,,1,Walk,8,5,5,Shopping,3.0,Expt 9.xlsx,Sheet1!K18:Q18,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),16,11:40,,3,Two Wheeler,7,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K19:Q19,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),17,11:43,,4,Car,8,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K20:Q20,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),18,11:43,,3,Two Wheeler,10,5,5,Shopping,2.0,Expt 9.xlsx,Sheet1!K21:Q21,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),19,11:44,,3,Two Wheeler,11,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K22:Q22,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),20,11:45,,4,Car,11,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K23:Q23,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),21,11:52,,2,Cycle,9,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K24:Q24,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),22,11:53,,3,Two Wheeler,8,5,2,Office/work,1.0,Expt 9.xlsx,Sheet1!K25:Q25,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),23,11:56,,4,Car,9,5,2,Office/work,1.0,Expt 9.xlsx,Sheet1!K26:Q26,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),24,11:56,,4,Car,7,5,2,Office/work,1.0,Expt 9.xlsx,Sheet1!K27:Q27,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),25,11:57,,4,Car,11,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K28:Q28,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),26,11:57,,4,Car,8,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K29:Q29,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),27,11:58,,2,Cycle,11,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K30:Q30,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),28,11:58,,2,Cycle,11,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K31:Q31,xlsx
+Group 5,Exp9,"Market Complex, IIT Guwahati",2026-03-17,Incoming (col K-Q),29,11:58,,2,Cycle,11,5,5,Shopping,1.0,Expt 9.xlsx,Sheet1!K32:Q32,xlsx

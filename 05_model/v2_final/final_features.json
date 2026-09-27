@@ -1,0 +1,93 @@
+{
+ "a2_features": [
+  "turn_deg_per_km",
+  "turn_contrast",
+  "is_bridge",
+  "mid_lon",
+  "mid_lat",
+  "hw_rank",
+  "is_main_road",
+  "is_national_highway",
+  "is_divided",
+  "ped_places_x_main",
+  "poi200_eatery",
+  "poi200_worship",
+  "main_road_km_1km",
+  "dist_to_main_road_km",
+  "nearby_ksi_3km",
+  "nearby_ksi_3km_rel",
+  "nearby_ksi_1km_recent",
+  "nearby_ksi_1km_rel",
+  "nearby_fatal_1km",
+  "nearby_ksi_500m",
+  "nearby_severity_ratio_1km",
+  "poi_2km",
+  "night_light",
+  "night_light_10km",
+  "dist_to_town_km",
+  "junctions",
+  "junctions_per_km",
+  "junctions_1km",
+  "road_km_5km",
+  "length_m",
+  "light_contrast",
+  "school_500m",
+  "is_unpaved"
+ ],
+ "a1_spf_terms": [
+  "turn_deg_per_km",
+  "turn_contrast",
+  "is_bridge",
+  "hw_rank",
+  "is_main_road",
+  "is_national_highway",
+  "is_divided",
+  "ped_places_x_main",
+  "poi200_eatery",
+  "poi200_worship",
+  "main_road_km_1km",
+  "dist_to_main_road_km",
+  "nearby_ksi_3km_rel",
+  "nearby_ksi_1km_rel",
+  "nearby_fatal_1km",
+  "nearby_ksi_500m",
+  "nearby_severity_ratio_1km",
+  "poi_2km",
+  "night_light_10km",
+  "dist_to_town_km",
+  "junctions",
+  "road_km_5km",
+  "light_contrast",
+  "school_500m",
+  "is_unpaved"
+ ],
+ "a2_params": {
+  "loss": "poisson",
+  "max_iter": 500,
+  "learning_rate": 0.05,
+  "max_leaf_nodes": 63,
+  "min_samples_leaf": 400,
+  "l2_regularization": 0.0,
+  "random_state": 0
+ },
+ "blend_weight_spf": 0.2,
+ "target": "ksi",
+ "history_radii_km": [
+  0.5,
+  1,
+  3
+ ],
+ "recent_months": 12,
+ "protocol": {
+  "select_train": [
+   "2023-01",
+   "2024-06"
+  ],
+  "select_validation": [
+   "2024-07",
+   "2025-06"
+  ],
+  "metric": "capture-curve area 0-20% road length"
+ },
+ "runtime_s": 914
+}

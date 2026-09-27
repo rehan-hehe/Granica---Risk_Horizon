@@ -1,0 +1,5 @@
+check,police_yes,police_no,n_police_yes
+"Police wrote ""Rain"" → ERA5 shows rain in last 4 h",0.697,0.245,1801
+"Police wrote ""Mist/Fog"" → ERA5 fog-likely",0.113,0.051,4194
+"Police wrote ""Mist/Fog"" → airport saw fog (Guwahati only)",0.014,0.006,923
+Police light condition = computed sun position,0.854,,38592

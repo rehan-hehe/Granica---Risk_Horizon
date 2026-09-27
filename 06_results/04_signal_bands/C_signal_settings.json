@@ -1,0 +1,16 @@
+{
+ "cutoffs_ksi_per_km_yr": {
+  "3": 1.34,
+  "2": 0.3981,
+  "1": 0.066
+ },
+ "weather_multiplier_used": 1.0,
+ "dark_multiplier_by_lighting": {
+  "bright_urban": 1.278,
+  "lit_town": 1.265,
+  "dim": 1.233,
+  "dark_rural": 1.21
+ },
+ "ped_flag_rule": ">=3 of schools/markets/transit places within 200 m + bus stops + ped crossings within 30 m",
+ "confidence_rule": "high = crash history and main road; medium = one of them; low = neither"
+}

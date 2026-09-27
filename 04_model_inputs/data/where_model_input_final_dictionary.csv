@@ -1,0 +1,34 @@
+feature,used_in_A2_trees,used_in_A1_spf,group,source,definition
+dist_to_main_road_km,True,True,network,OSM (engineered),"distance to nearest main road, capped 20 km"
+dist_to_town_km,True,True,lighting,VIIRS (engineered),"distance to nearest bright-urban pixel (>=20 nW), capped 50 km"
+hw_rank,True,True,road_class,OSM,Road hierarchy 0 (service/track) .. 6 trunk
+is_bridge,True,True,geometry,OSM,bridge tag
+is_divided,True,True,road_class,OSM,oneway main road (dual carriageway proxy)
+is_main_road,True,True,road_class,OSM,trunk/primary/secondary incl. links
+is_national_highway,True,True,road_class,OSM,ref contains NH
+is_unpaved,True,True,road_class,OSM,surface tag unpaved (94% of tags missing)
+junctions,True,True,junction_points,OSM,junction nodes within 5 m
+junctions_1km,True,False,junction_points,OSM (engineered),junction nodes on segments within 1 km
+junctions_per_km,True,False,junction_points,OSM,junctions per km
+length_m,True,False,geometry,OSM,segment length (m)
+light_contrast,True,True,lighting,VIIRS (engineered),local vs 3 km light: lit strip in a dark area > 0
+main_road_km_1km,True,True,network,OSM (engineered),main-road km within 1 km
+mid_lat,True,False,location,OSM,latitude of segment midpoint
+mid_lon,True,False,location,OSM,longitude of segment midpoint
+nearby_fatal_1km,True,True,crash_history,iRAD (engineered),fatal crashes per month on other segments within 1 km
+nearby_ksi_1km_recent,True,False,crash_history,iRAD (engineered),"KSI per month within 1 km, last 12 data months"
+nearby_ksi_1km_rel,True,True,crash_history_rel,iRAD (engineered),nearby KSI rate within 1 km / regional KSI rate per road-km (reporting-drift corrected)
+nearby_ksi_3km,True,False,crash_history,iRAD (engineered),KSI crashes per month on other segments within 3km
+nearby_ksi_3km_rel,True,True,crash_history_rel,iRAD (engineered),nearby KSI rate within 3 km / regional KSI rate per road-km (reporting-drift corrected)
+nearby_ksi_500m,True,True,crash_history,iRAD (engineered),KSI crashes per month on other segments within 500m
+nearby_severity_ratio_1km,True,True,crash_history,iRAD (engineered),share of nearby crashes that were KSI
+night_light,True,False,lighting,VIIRS,"radiance around segment (3x3 pixels, ~1.4 km)"
+night_light_10km,True,True,lighting,VIIRS (engineered),mean radiance within 10 km (regional development)
+ped_places_x_main,True,True,pedestrian_places,engineered,places within 200 m on a main road (fast traffic meets pedestrians)
+poi200_eatery,True,True,pedestrian_places,OSM,eatery places within 200 m
+poi200_worship,True,True,pedestrian_places,OSM,worship places within 200 m
+poi_2km,True,True,pedestrian_places,OSM (engineered),all places within 2 km (settlement size)
+road_km_5km,True,True,network,OSM (engineered),road km within 5 km (urbanity)
+school_500m,True,True,pedestrian_places,OSM (engineered),schools/colleges within 500 m
+turn_contrast,True,True,geometry,OSM (engineered),turning minus mean of neighbouring segments on the same way
+turn_deg_per_km,True,True,geometry,OSM,total turning per km

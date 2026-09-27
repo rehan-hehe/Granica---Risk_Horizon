@@ -1,0 +1,29 @@
+group,experiment,mode,interval,counted,interviewed_reported,interviewed_in_raw,expansion_factor_reported,source_file,source_location
+Group 5,Exp9,Car,whole survey 10:30-12:00,47,30.0,30.0,1.5667,Expt 9.xlsx,Sheet1!P44:S47
+Group 5,Exp9,Two Wheeler,whole survey 10:30-12:00,31,18.0,18.0,1.7222,Expt 9.xlsx,Sheet1!P44:S47
+Group 5,Exp9,Cycle,whole survey 10:30-12:00,16,9.0,9.0,1.7778,Expt 9.xlsx,Sheet1!P44:S47
+Group 5,Exp9,Walk,whole survey 10:30-12:00,12,2.0,2.0,6.0,Expt 9.xlsx,Sheet1!P44:S47
+Group 12,Exp9,Walk,0-15 min,6,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Walk,15-30 min,4,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Walk,30-45 min,7,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Walk,45-60 min,3,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Walk,60-75 min,5,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Walk,75-90 min,8,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Cycle,0-15 min,24,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Cycle,15-30 min,18,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Cycle,30-45 min,28,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Cycle,45-60 min,15,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Cycle,60-75 min,20,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Cycle,75-90 min,32,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Two Wheeler,0-15 min,34,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Two Wheeler,15-30 min,28,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Two Wheeler,30-45 min,42,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Two Wheeler,45-60 min,22,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Two Wheeler,60-75 min,31,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Two Wheeler,75-90 min,48,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Car,0-15 min,10,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Car,15-30 min,8,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Car,30-45 min,12,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Car,45-60 min,7,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Car,60-75 min,9,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet
+Group 12,Exp9,Car,75-90 min,14,,,,Experiment9_grp 12.pdf,p.9 handwritten Traffic Volume Count sheet

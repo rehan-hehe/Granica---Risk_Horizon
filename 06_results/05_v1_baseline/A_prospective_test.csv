@@ -1,0 +1,6 @@
+model,new_blackspots_total,test_KSI_in_top1pct_km,new_blackspots_in_top1pct_km,test_KSI_in_top5pct_km,new_blackspots_in_top5pct_km,test_KSI_in_top10pct_km,new_blackspots_in_top10pct_km,test_poisson_deviance
+B  past crashes (blackspot-list approach),91,0.141,33,0.3722,64,0.488,78,
+A1 NB safety performance function,91,0.1539,48,0.4803,83,0.658,87,54358.0
+A2 gradient-boosted Poisson trees,91,0.1409,40,0.4767,80,0.6623,87,53793.0
+ENS 0.3*A1 + 0.7*A2,91,0.1497,48,0.4881,86,0.6655,87,52902.0
+EB ensemble + own history (final),91,0.1636,42,0.4924,85,0.6739,88,52336.0

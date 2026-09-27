@@ -1,0 +1,11 @@
+group,n_features,drop_aucc20,loss_when_dropped,only_aucc20
+road_class,6,0.5821,0.0118,0.4748
+geometry,4,0.5901,0.0038,0.3058
+crash_history,5,0.5907,0.0032,0.4783
+lighting,4,0.5931,0.0008,0.3521
+pedestrian_places,12,0.594,-0.0001,0.3146
+network,3,0.5948,-0.0009,0.4812
+location,2,0.5951,-0.0012,0.2822
+crash_history_rel,2,0.5953,-0.0014,0.4009
+junction_points,4,0.5957,-0.0018,0.2274
+reporting_level,1,0.5959,-0.002,0.2166

@@ -1,0 +1,5 @@
+condition,band_2plus_road_km,band_2plus_share_km,band_3_road_km
+daylight,4060,0.05,812
+twilight,4829,0.0595,1155
+dark,4891,0.0603,1191
+rain,4060,0.05,812
