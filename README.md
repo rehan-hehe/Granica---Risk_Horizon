@@ -1,6 +1,6 @@
 # Risk Horizon — a road-risk signal for the car's electronic horizon
 
-**Granica × IIT Guwahati Hackathon: "Bring the Physical World to AI"** · Team DirectorsInc
+**Granica × IIT Guwahati Hackathon: "Bring the Physical World to AI"** · Team Pookie_Pandas
 
 > A road has to kill before anyone flags it. We turned **44,928 Assam police crash reports**, OpenStreetMap, NASA night lights, hourly weather and **live traffic (still collecting)** into a tested record of Assam's roads. A transparent model then gives driver-assist cars and road engineers a risk band for every 500 m of road.
 

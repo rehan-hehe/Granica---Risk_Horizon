@@ -1,6 +1,6 @@
 # Risk Horizon: a road-risk signal for the car's electronic horizon, built from Assam's police crash records
 
-**Granica × IIT Guwahati Hackathon: "Bring the Physical World to AI"** · Team DirectorsInc · 27 Sep 2026
+**Granica × IIT Guwahati Hackathon: "Bring the Physical World to AI"** · Team Pookie_Pandas · 27 Sep 2026
 
 > **In one line:** we turned 44,928 police crash PDFs, OpenStreetMap, NASA night lights, hourly weather and live traffic into a structured, validated record of Assam's roads. From it, a transparent model tells a driver-assist car which 500 m stretches ahead are dangerous, and when. Trained on the past and tested on months it never saw, it finds **49.7% of future serious crashes on just 5% of the road**, against 39.5% for today's blackspot-list approach, and it flags **184 of 236 new hotspots** before they happen.
 
